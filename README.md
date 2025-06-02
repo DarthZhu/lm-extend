@@ -1,9 +1,10 @@
-# Is Extending Modality The Right Path Towards Omni-Modality?
-
+<h1 align="center">Is Extending Modality <br> The Right Path Towards Omni-Modality? </h1>
 <!-- ![Static Badge](https://img.shields.io/badge/vision%20and%20language-blue)
 ![Static Badge](https://img.shields.io/badge/knowledge%20conflict-blue) -->
 
-Code and data for paper [Is Extending Modality The Right Path Towards Omni-Modality?](https://arxiv.org/abs/xxxx.xxxxx).
+<p align="center">
+Code and data for paper <a href="https://arxiv.org/abs/xxxx.xxxxx">Is Extending Modality The Right Path Towards Omni-Modality?</a>.
+</p>
 
 <p align="center">
     [<a href="https://darthzhu.github.io/lm-extend-page/">Website</a>] •
