@@ -1,0 +1,1024 @@
+{"001-1": "D. The three kinds are of the same number"}
+{"001-2": "A. It is a news report that introduces the history behind Christmas decorations"}
+{"001-3": "C. 2"}
+{"002-1": "C. Jade"}
+{"002-2": "A. Because it's from Ming Dynasty and of specific archaeological significance"}
+{"002-3": "B. 9"}
+{"003-1": "A. 3"}
+{"003-2": "C. Steak burgers spread throughout the United States"}
+{"003-3": "D. United States"}
+{"004-1": "B. Dryopithecus"}
+{"004-2": "C. Ardipithecus Ramidus"}
+{"004-3": "B. Homo Sapiens"}
+{"005-1": "B. Two"}
+{"005-2": "B. The assasination of Archduke Franze Fredinand"}
+{"005-3": "C. Ferdinand was wearing a white hat"}
+{"006-1": "D. Shamrock"}
+{"006-2": "A. They began to center around drinking and celebrating the festival"}
+{"006-3": "B. Dressing in green and dyeing the river to green"}
+{"007-1": "B. By lighting a torch"}
+{"007-2": "B. Homing Pigeon"}
+{"007-3": "B. Dude! You gotta come toBigStuf Camps!"}
+{"008-1": "C. Black"}
+{"008-2": "C. 3"}
+{"008-3": "B. A tutorial on how to practice guitar on electronic devices"}
+{"009-1": "A. White"}
+{"009-2": "B. May 5th"}
+{"009-3": "B. Because he committed suicide by drowning himself in Miluo River"}
+{"010-1": "B. Quick ways to grasp the fundamentals of intercultural communication"}
+{"010-2": "B. A coconut tree"}
+{"010-3": "C. The Egyptian Pyramids"}
+{"011-1": "C. Ballet"}
+{"011-2": "B. Black"}
+{"011-3": "C. Releve and then pirouette"}
+{"012-1": "B. Because he considered the process of eating a banana is art"}
+{"012-2": "C. He reattached the skin of banana using the same tape"}
+{"012-3": "D. Gray"}
+{"013-1": "C. Shells"}
+{"013-2": "A. Shell"}
+{"013-3": "C. Added 1/3 water"}
+{"014-1": "B. A bird"}
+{"014-2": "D. Copper"}
+{"014-3": "B. She attaches the copper scales to the body"}
+{"015-1": "C. A little girl and a blue balloon"}
+{"015-2": "D. It shredded into pieces"}
+{"015-3": "B. The buyer put a shredder inside the painting many years ago"}
+{"016-1": "B. 1889"}
+{"016-2": "D. The hope that led Van Gogh into success"}
+{"016-3": "C. Castle"}
+{"017-1": "D. Five"}
+{"017-2": "C. Note"}
+{"017-3": "A. Because it indicates the hand to play them"}
+{"018-1": "D. Little finger"}
+{"018-2": "D. Six"}
+{"018-3": "C. He played some complex chords"}
+{"019-1": "C. The bird might get used to being alone"}
+{"019-2": "B. Flying"}
+{"019-3": "C. Edgar"}
+{"020-1": "A. Because the copper is rusty"}
+{"020-2": "B. By going up to the crown of the statue"}
+{"020-3": "C. Taken from the sea in the distance"}
+{"021-1": "A. How mRNA vaccines work"}
+{"021-2": "C. COVID-19 virus"}
+{"021-3": "D. Blue"}
+{"022-1": "A. About 25 minutes"}
+{"022-2": "A. It is derived from the Latin word for 'egg'"}
+{"022-3": "D. What happens to your knuckles when you crack them"}
+{"023-1": "C. An immune cell is destroying pathogens"}
+{"023-2": "A. Special digestive enzymes: such as proteases or nucleases, which can break down bacterial proteins or nucleic acids under specific conditions"}
+{"023-3": "C. Tiny dense cells in blue at the beginning of the video"}
+{"024-1": "A. A virus attacks a cell"}
+{"024-2": "B. Virus"}
+{"024-3": "B. Mechanisms of viral infection"}
+{"025-1": "B. A model of a human heart"}
+{"025-2": "C. Hepatic veins"}
+{"025-3": "A. For medical education"}
+{"026-1": "C. Pancreatic cancer cells"}
+{"026-2": "A. 2000x magnification"}
+{"026-3": "D. Mitosis"}
+{"027-1": "A. Because she is preparing for a medical examination"}
+{"027-2": "C. Cancer Research UK"}
+{"027-3": "B. The patient is undergoing a CT scan"}
+{"028-1": "A. She removed the liver"}
+{"028-2": "B. Admissions brochure for a school"}
+{"028-3": "D. 2"}
+{"029-1": "C. Lungs"}
+{"029-2": "B. To offer health-related advice"}
+{"029-3": "D. The dangers of drug interactions"}
+{"030-1": "A. Mitochondrion"}
+{"030-2": "C. Blue"}
+{"030-3": "B. Energy production"}
+{"031-1": "D. Stocks (blue), Bonds (red), and Cash (yellow)"}
+{"031-2": "B. A basic explanation of what mutual funds are, and how they work"}
+{"031-3": "A. People no longer need to choose their own diversified investment portfolio after buying a mutual fund"}
+{"032-1": "B. The issuers in the bond market include the federal government, municipalities, and corporations"}
+{"032-2": "A. $5 trillion"}
+{"032-3": "B. 6"}
+{"033-1": "C. $7"}
+{"033-2": "D. Franklin D"}
+{"033-3": "D. A side-by-side comparison of a 2019 dollar bill and a 1938 dollar bill"}
+{"034-1": "C. Financial crisis"}
+{"034-2": "B. Quantitative easing requires the central bank to print money"}
+{"034-3": "B. The UK's use of bonds for quantitative easing"}
+{"035-1": "C. To display the current time when the narrator is sharing financial knowledge"}
+{"035-2": "A. From left to right"}
+{"035-3": "C. Resource allocation"}
+{"036-1": "A. 3"}
+{"036-2": "D. 29%"}
+{"036-3": "D. $475 billion"}
+{"037-1": "D. Pepsi"}
+{"037-2": "C. Hand-drawn company logos"}
+{"037-3": "D. Dow Jones, S&P 500, Nasdaq"}
+{"038-1": "A. Blue"}
+{"038-2": "A. When supply is less than demand, you can make money by selling bananas"}
+{"038-3": "A. Supply and demand"}
+{"039-1": "C. 11:00"}
+{"039-2": "C. Pink"}
+{"039-3": "B. Money laundering"}
+{"040-1": "C. Between 1997 and 2002"}
+{"040-2": "C. $600/Share"}
+{"040-3": "B. The dot-com Bubble"}
+{"041-1": "B. On March 24"}
+{"041-2": "A. 2"}
+{"041-3": "D. Astronomical phenomena visible in March"}
+{"042-1": "B. 3"}
+{"042-2": "C. How is the moon created"}
+{"042-3": "A. Using computer simulation"}
+{"043-1": "D. Lunar approach"}
+{"043-2": "A. 1"}
+{"043-3": "B. Astronomical disaster"}
+{"044-1": "A. 2"}
+{"044-2": "B. Meteorite attack"}
+{"044-3": "D. Escaping from a disaster"}
+{"045-1": "C. Total solar eclipse"}
+{"045-2": "B. Appearance of snakes"}
+{"045-3": "B. Nature park"}
+{"046-1": "B. Astronomy enrollment outreach"}
+{"046-2": "A. Earth"}
+{"046-3": "B. 4"}
+{"047-1": "A. Fear from an impending cataclysmic event"}
+{"047-2": "B. The impact of a giant asteroid on Earth"}
+{"047-3": "C. Global seismic and tidal disturbances"}
+{"048-1": "D. The Andromeda Galaxy and the Milky Way"}
+{"048-2": "A. The time until the Andromeda and Milky Way galaxies collide"}
+{"048-3": "B. It may be a companion galaxy to the Andromeda Galaxy, influenced by its gravity"}
+{"049-1": "C. Using a Manned Maneuvering Unit (MMU) to float free in space"}
+{"049-2": "B. The presence of a jetpack-like device on the astronaut's back"}
+{"049-3": "D. The first astronaut to float freely in space without a safety tether"}
+{"050-1": "B. A solar eclipse"}
+{"050-2": "D. April 8, 2024"}
+{"050-3": "B. East"}
+{"051-1": "B. Four"}
+{"051-2": "C. There are bridges on both scene"}
+{"051-3": "A. Lena River"}
+{"052-1": "D. It can be seen from Tokyo if the weather is fine"}
+{"052-2": "A. Five"}
+{"052-3": "A. Blue"}
+{"053-1": "A. It turns blue"}
+{"053-2": "A. They use shovel to collects lava safely"}
+{"053-3": "C. By water"}
+{"054-1": "B. El Ni\u00f1o and La Ni\u00f1a bring similar weather to North America"}
+{"054-2": "C. Trade winds weaken"}
+{"054-3": "B. The trade winds bring away the heat on the sea surface"}
+{"055-1": "B. Five"}
+{"055-2": "D. Because the current brings cold water from a colder place"}
+{"055-3": "D. Heat"}
+{"056-1": "B. Human"}
+{"056-2": "B. Moon"}
+{"056-3": "D. Mushroom"}
+{"057-1": "C. Vapor"}
+{"057-2": "A. Evaporation, condensation and then the raindrop forms"}
+{"057-3": "B. The cloud is made of water vapor"}
+{"058-1": "B. Near the lamp, the temperature rises"}
+{"058-2": "A. Brown"}
+{"058-3": "B. The sea is cooler than the ground, and thus the sea wind forms"}
+{"059-1": "A. The Atlantic ocean"}
+{"059-2": "D. Gray hat and black jacket"}
+{"059-3": "A. The wind in eye wall is calmer than outside"}
+{"060-1": "D. Polar bear"}
+{"060-2": "A. The report is about the biggest iceberg that forms recently"}
+{"060-3": "D. Sea level may rises a little bit"}
+{"061-1": "B. 6"}
+{"061-2": "D. Magnifying glass"}
+{"061-3": "A. LEXANIMATA"}
+{"062-1": "C. It moved from the bottom left to the top left, then to the center, then to the top right, then to the bottom right, and finally it moved to the center bottom"}
+{"062-2": "B. World War"}
+{"062-3": "C. Portugal's GDP for the year 2020 is $230 billion USD"}
+{"063-1": "D. 4"}
+{"063-2": "D. The building is on fire and smoke is pouring out"}
+{"063-3": "B. The Prize Cases"}
+{"064-1": "C. Common law and civil law"}
+{"064-2": "C. Shake hands"}
+{"064-3": "D. Judge"}
+{"065-1": "B. The roles of different people in court"}
+{"065-2": "C. Judge"}
+{"065-3": "A. 2"}
+{"066-1": "C. Black, yellow, blue"}
+{"066-2": "A. Walking"}
+{"066-3": "C. A helicopter"}
+{"067-1": "A. Ireland"}
+{"067-2": "C. Yellow"}
+{"067-3": "B. 1"}
+{"068-1": "C. The release of the new California labor laws in 2024"}
+{"068-2": "A. Maximum wage increases"}
+{"068-3": "D. Phone conversations"}
+{"069-1": "B. 4"}
+{"069-2": "C. Money bag"}
+{"069-3": "A. Two hands holding a book"}
+{"070-1": "D. An abortion case"}
+{"070-2": "D. 3"}
+{"070-3": "C. He is the judge"}
+{"071-1": "B. 7-9"}
+{"071-2": "C. It draws a consuming battery turning from green to red"}
+{"071-3": "B. Alcohol"}
+{"072-1": "D. Elbow pads"}
+{"072-2": "D. Sitting on the bike seat with the right foot on the ground and the left foot resting on the pedal"}
+{"072-3": "B. (c)(e)(a)(b)(d)"}
+{"073-1": "D. iPhone 6s"}
+{"073-2": "B. The icon depicts two black letters of K and C"}
+{"073-3": "C. The man uses a microfiber cloth to wipe off the keyboard"}
+{"074-1": "B. 3"}
+{"074-2": "B. Curtains"}
+{"074-3": "B. It teaches how to walk silently"}
+{"075-1": "B. The shirt of black"}
+{"075-2": "A. On the center of the shirt"}
+{"075-3": "A. It teaches how to fold a shirt"}
+{"076-1": "D. Bag of treats"}
+{"076-2": "B. Black"}
+{"076-3": "C. It teaches how to properly walk a dog on a leash"}
+{"077-1": "A. Blue"}
+{"077-2": "B. 3"}
+{"077-3": "B. To infuse the water with a refreshing and subtle flavor"}
+{"078-1": "C. Left"}
+{"078-2": "C. A petal of the tie"}
+{"078-3": "D. It teaches how to tie a bow tie"}
+{"079-1": "B. Potato"}
+{"079-2": "B. They are arranged in a straight line"}
+{"079-3": "A. (b)(e)(d)(f)(a)(c)"}
+{"080-1": "C. When he is releasing the tension"}
+{"080-2": "B. Chest"}
+{"080-3": "C. It teaches you to improve your posture using resistance bands"}
+{"081-1": "B. To show the solidity of the car"}
+{"081-2": "A. 15 inches"}
+{"081-3": "A. Car features"}
+{"082-1": "A. It doesn't have a left rear wheel"}
+{"082-2": "C. Yellow"}
+{"082-3": "A. Indoor parking lot"}
+{"083-1": "D. Blue gray"}
+{"083-2": "C. The development of mobile phones"}
+{"083-3": "A. 4"}
+{"084-1": "C. They all wear masks or glasses"}
+{"084-2": "B. Product advertisement"}
+{"084-3": "A. 2"}
+{"085-1": "B. 55 MPH"}
+{"085-2": "B. 3"}
+{"085-3": "A. When using Super Cruise, you need to keep your hands firmly on the wheel"}
+{"086-1": "C. The car will be moved by the machine to the accurate position in the battery swap station"}
+{"086-2": "A. Automatic swap of auto parts"}
+{"086-3": "A. es8"}
+{"087-1": "A. 1"}
+{"087-2": "C. Balance beam"}
+{"087-3": "B. Blue"}
+{"088-1": "A. How camera lenses work"}
+{"088-2": "C. 3"}
+{"088-3": "D. To control the amount of light entering the camera"}
+{"089-1": "C. Rolls-Royce engines include the gas turbines and the piston engines"}
+{"089-2": "A. AIRBUS A350"}
+{"089-3": "D. How Engines Work"}
+{"090-1": "B. Chips are produced in clean rooms"}
+{"090-2": "D. How chips are produced"}
+{"090-3": "C. 700"}
+{"091-1": "D. Sad"}
+{"091-2": "A. 3"}
+{"091-3": "C. 3"}
+{"092-1": "C. Painting"}
+{"092-2": "D. Studying math"}
+{"092-3": "C. She feels she will be controlled by her mom"}
+{"093-1": "D. Anxious"}
+{"093-2": "B. 16"}
+{"093-3": "B. Slower passage of time"}
+{"094-1": "D. Blue"}
+{"094-2": "C. Turtle"}
+{"094-3": "A. Handstanding"}
+{"095-1": "C. Singing"}
+{"095-2": "D. A wolf"}
+{"095-3": "C. Singing"}
+{"096-1": "B. A dragon"}
+{"096-2": "A. Mountain"}
+{"096-3": "D. A pistol"}
+{"097-1": "C. Drinking tea"}
+{"097-2": "C. The one on the left"}
+{"097-3": "B. Big"}
+{"098-1": "A. Metal"}
+{"098-2": "D. Elsa"}
+{"098-3": "C. A sword"}
+{"099-1": "B. 3"}
+{"099-2": "A. Congestion"}
+{"099-3": "C. The tea overflows"}
+{"100-1": "D. Panda"}
+{"100-2": "B. A stick"}
+{"100-3": "A. A peach tree"}
+{"101-1": "A. On a train"}
+{"101-2": "D. Because the woman he's talking to on the phone called him \"moonpie\""}
+{"101-3": "A. 1"}
+{"102-1": "D. It is unclear"}
+{"102-2": "B. Which person the man in the suit should choose as his best man"}
+{"102-3": "B. 3"}
+{"103-1": "B. A pair of chopsticks"}
+{"103-2": "C. Noodles"}
+{"103-3": "D. It is impossible to determine why the man laughed based on the information provided"}
+{"104-1": "A. The man is trying to teach the woman knowledge"}
+{"104-2": "D. Insufficient information to determine"}
+{"104-3": "A. Blue"}
+{"105-1": "B. 342432"}
+{"105-2": "D. A handgun"}
+{"105-3": "D. 6"}
+{"106-1": "C. Orange"}
+{"106-2": "A. She touches his lip"}
+{"106-3": "D. The man with curly hair"}
+{"107-1": "D. A helicopter"}
+{"107-2": "A. Orange"}
+{"107-3": "A. It is pulled to ground and crash"}
+{"108-1": "A. Sown"}
+{"108-2": "B. Putting on a red mech"}
+{"108-3": "D. Sun"}
+{"109-1": "A. Writing"}
+{"109-2": "B. Golden"}
+{"109-3": "C. Careless"}
+{"110-1": "B. Practicing spell"}
+{"110-2": "D. The feather floats up"}
+{"110-3": "C. Disappointed"}
+{"111-1": "B. 3"}
+{"111-2": "D. A seal to come to the breathing hole and hunt it"}
+{"111-3": "C. Every 30 minutes"}
+{"112-1": "B. 5"}
+{"112-2": "C. Homemade lamps"}
+{"112-3": "D. To use as fuel for self-made lamps"}
+{"113-1": "D. Glass"}
+{"113-2": "B. 9"}
+{"113-3": "B. Bucket and shovel"}
+{"114-1": "D. Diabetes Mellitus"}
+{"114-2": "C. Full of pressure"}
+{"114-3": "A. 11"}
+{"115-1": "D. Spotted"}
+{"115-2": "B. Kitten"}
+{"115-3": "B. 1"}
+{"116-1": "D. Blue"}
+{"116-2": "D. Because it is full of sharp spines with barbs"}
+{"116-3": "B. His right hand"}
+{"117-1": "A. 2"}
+{"117-2": "C. About 20 cm"}
+{"117-3": "C. 3"}
+{"118-1": "C. 3"}
+{"118-2": "C. Because the fur color of sand cats blends in with the environment, making them hard to spot"}
+{"118-3": "B. 6 to 8 weeks"}
+{"119-1": "B. The shortest man in the world"}
+{"119-2": "C. Green"}
+{"119-3": "A. There is a problem with her legs"}
+{"120-1": "B. A lamp"}
+{"120-2": "D. It desires more physical contact"}
+{"120-3": "D. Blue"}
+{"121-1": "B. The prop master who was in charge of this gun"}
+{"121-2": "D. Pink"}
+{"121-3": "D. A ranch in New Mexico"}
+{"122-1": "B. WJI9HLW"}
+{"122-2": "D. Range Rover"}
+{"122-3": "A. Blue"}
+{"123-1": "A. 34"}
+{"123-2": "C. The agenda failed"}
+{"123-3": "C. 2"}
+{"124-1": "D. The farmers staged A protest"}
+{"124-2": "D. Government guarantees of a minimum support price for their crop"}
+{"124-3": "A. Purple"}
+{"125-1": "B. More than 2000"}
+{"125-2": "A. Impending volcanic eruption"}
+{"125-3": "A. Sad"}
+{"126-1": "D. Solemn"}
+{"126-2": "B. It is a religious act"}
+{"126-3": "B. Around -5 degrees centigrade"}
+{"127-1": "C. Yellow plaid shirt"}
+{"127-2": "D. Positive"}
+{"127-3": "A. Because he lives in the mountains at an altitude of about 3000 meters"}
+{"128-1": "A. drought"}
+{"128-2": "A. Fire"}
+{"128-3": "C. Black"}
+{"129-1": "B. Because it is the largest sea dragon fossil ever found in Britain"}
+{"129-2": "D. He is a bald interviewee"}
+{"129-3": "B. In a reservoir"}
+{"130-1": "A. 3"}
+{"130-2": "B. A criminal broke in to rob the place and was subdued by a cowboy"}
+{"130-3": "B. The cowboy subdued the criminal when the criminal turned around"}
+{"131-1": "C. Adc"}
+{"131-2": "A. Assassin"}
+{"131-3": "C. Axe"}
+{"132-1": "B. Ice"}
+{"132-2": "B. The legend is flying"}
+{"132-3": "B. A spear"}
+{"133-1": "B. 4"}
+{"133-2": "B. The legend with two weapons in hands"}
+{"133-3": "A. Behind the nexus"}
+{"134-1": "C. She wants to slay an enemy"}
+{"134-2": "C. Exhaust"}
+{"134-3": "A. Sword"}
+{"135-1": "C. Green"}
+{"135-2": "B. Red letter \"A\""}
+{"135-3": "B. 2"}
+{"136-1": "B. 6"}
+{"136-2": "A. Black"}
+{"136-3": "B. In a basement"}
+{"137-1": "B. He is flashed"}
+{"137-2": "C. Smoke"}
+{"137-3": "B. 3"}
+{"138-1": "D. In a desert"}
+{"138-2": "B. 2"}
+{"138-3": "B. 2"}
+{"139-1": "A. Purple"}
+{"139-2": "D. It is cloudy"}
+{"139-3": "B. It drills into the ground"}
+{"140-1": "C. Purple"}
+{"140-2": "A. A hand"}
+{"140-3": "B. It drills into the ground"}
+{"141-1": "C. Player number 1"}
+{"141-2": "B. Player number 4"}
+{"141-3": "A. Basketball"}
+{"142-1": "D. No time left"}
+{"142-2": "D. Isolation slam"}
+{"142-3": "B. Black number 5"}
+{"143-1": "C. The white team"}
+{"143-2": "B. Number 32"}
+{"143-3": "D. Men's basketball 5v5"}
+{"144-1": "A. Player number 7"}
+{"144-2": "A. Player number 7"}
+{"144-3": "B. This is a Paralympic basketball game"}
+{"145-1": "D. Making a pencil"}
+{"145-2": "B. Because he loses"}
+{"145-3": "B. Basketball"}
+{"146-1": "C. The man wearing a black vest with the number 22"}
+{"146-2": "D. 3"}
+{"146-3": "D. Basketball brand publicity"}
+{"147-1": "B. 6"}
+{"147-2": "A. Basketball three-point contest"}
+{"147-3": "B. The Challenge initiator"}
+{"148-1": "D. Player number 6"}
+{"148-2": "A. Travelling"}
+{"148-3": "B. Because this happened before the rules were changed"}
+{"149-1": "D. Hit the game-winning shot"}
+{"149-2": "B. America"}
+{"149-3": "A. Highlights from Team USA during the FIBA Women's Basketball World Cup"}
+{"150-1": "A. A boy's basketball growing-up story"}
+{"150-2": "C. 10"}
+{"150-3": "B. Because he missed the game-winning shot"}
+{"151-1": "A. 4"}
+{"151-2": "B. Blue"}
+{"151-3": "C. Brazil"}
+{"152-1": "B. 2"}
+{"152-2": "A. The FIFA World Cup"}
+{"152-3": "A. Number 8"}
+{"153-1": "A. Yahoo"}
+{"153-2": "C. Lilly"}
+{"153-3": "A. White number 13"}
+{"154-1": "C. The FIFA World Cup Trophy"}
+{"154-2": "A. A soccer field"}
+{"154-3": "B. It will be held in New York/New Jersey"}
+{"155-1": "D. France"}
+{"155-2": "B. Kylian Mbapp\u00e9"}
+{"155-3": "A. 4"}
+{"156-1": "B. High-fiving with the teammates"}
+{"156-2": "B. Morocco"}
+{"156-3": "D. Can not be inferred in the video"}
+{"157-1": "D. Number 18"}
+{"157-2": "C. Maxi Rodriguez"}
+{"157-3": "A. 0"}
+{"158-1": "B. Qatar 0 - 2 Senegal"}
+{"158-2": "A. Number 14"}
+{"158-3": "C. The game is tied and approaching the final moments"}
+{"159-1": "B. Goalkeeper"}
+{"159-2": "C. Uruguay"}
+{"159-3": "A. Very happy after scoring the goal"}
+{"160-1": "D. 2:1"}
+{"160-2": "C. An ordinary member of the audience"}
+{"160-3": "B. Korea"}
+{"161-1": "A. 3"}
+{"161-2": "C. Athlete wearing a yellow top and green shorts"}
+{"161-3": "A. High jump competition"}
+{"162-1": "D. New Zealand"}
+{"162-2": "C. Sanghyeok Woo"}
+{"162-3": "C. TCL"}
+{"163-1": "B. 9"}
+{"163-2": "D. Men's 100m open"}
+{"163-3": "D. 8"}
+{"164-1": "C. 3"}
+{"164-2": "D. It cannot be inferred from this video"}
+{"164-3": "D. Women's 60m hurdles"}
+{"165-1": "A. The athlete wearing a blue top and blue shorts"}
+{"165-2": "A. 7"}
+{"165-3": "A. Men's 400 meters"}
+{"166-1": "D. 2"}
+{"166-2": "B. America"}
+{"166-3": "A. Freestyle"}
+{"167-1": "A. China"}
+{"167-2": "D. Freestyle"}
+{"167-3": "D. 1"}
+{"168-1": "C. 3"}
+{"168-2": "D. 3"}
+{"168-3": "D. Men's long jump"}
+{"169-1": "B. Germany"}
+{"169-2": "C. Rio 2016"}
+{"169-3": "A. 3"}
+{"170-1": "D. Tokyo 2020"}
+{"170-2": "A. 7"}
+{"170-3": "D. The athlete in blue tops and green shorts"}
+{"171-1": "B. In 2016"}
+{"171-2": "A. The man in black"}
+{"171-3": "A. Two athletes make a series of consecutive successful hits"}
+{"172-1": "B. A row of letters"}
+{"172-2": "B. He put his arms crossed over the chest"}
+{"172-3": "B. It was hit out of the ballpark and reached the seats"}
+{"173-1": "D. 5-9"}
+{"173-2": "B. The man in light blue"}
+{"173-3": "B. The opposing hit the ball out of the bounds"}
+{"174-1": "D. Black"}
+{"174-2": "A. Liber Win and MrQ"}
+{"174-3": "B. A snooker player is being interviewed for entering the final competition"}
+{"175-1": "B. 4"}
+{"175-2": "B. The opposing player hit the ball out of the bounds"}
+{"175-3": "A. Tennis"}
+{"176-1": "C. 20-23"}
+{"176-2": "A. He is the referee standing aside"}
+{"176-3": "B. The kicker of the white team made a touchdown and won 6 points"}
+{"177-1": "A. 3-2"}
+{"177-2": "D. 2"}
+{"177-3": "D. The woman in black"}
+{"178-1": "B. It is a blue cross on a white background"}
+{"178-2": "C. He made faces to the goalkeeper"}
+{"178-3": "D. 70"}
+{"179-1": "C. It was caught on fires"}
+{"179-2": "C. The green and black car gives the front car a push to the start/finish line"}
+{"179-3": "A. GO BOWLING"}
+{"180-1": "A. 6"}
+{"180-2": "B. He slided out of the slope"}
+{"180-3": "C. CHN"}
+{"181-1": "D. Four men and four women"}
+{"181-2": "B. A blue short-sleeve"}
+{"181-3": "B. They are singing and dancing"}
+{"182-1": "D. Blue"}
+{"182-2": "B. 4"}
+{"182-3": "D. They are singing a song"}
+{"183-1": "C. Three women"}
+{"183-2": "C. A man with a white hat"}
+{"183-3": "A. The audience applauded and thought the singer's performance was excellent"}
+{"184-1": "A. Drum set"}
+{"184-2": "B. Blue"}
+{"184-3": "D. Children"}
+{"185-1": "B. Dancing"}
+{"185-2": "A. Neon lights"}
+{"185-3": "D. An ice cream parlor"}
+{"186-1": "A. Six"}
+{"186-2": "C. Swirling colors"}
+{"186-3": "A. Musical theatre"}
+{"187-1": "A. A garden"}
+{"187-2": "B. Australia"}
+{"187-3": "D. A children's fantasy show"}
+{"188-1": "A. The woman without glasses"}
+{"188-2": "A. A glass"}
+{"188-3": "B. It is a provocative comedy"}
+{"189-1": "A. To drink tea"}
+{"189-2": "B. A picture on his phone"}
+{"189-3": "C. They are family members in a tense discussion"}
+{"190-1": "C. A live concert"}
+{"190-2": "A. A tropical beach"}
+{"190-3": "A. Excited and energetic"}
+{"191-1": "A. 4"}
+{"191-2": "C. Middle finger"}
+{"191-3": "B. A rubber band jumps from being wrapped around the pinkie and ring fingers to the first and middle fingers of the same hand and then back again"}
+{"192-1": "A. 4"}
+{"192-2": "D. The performer levitates with only a stick supporting him"}
+{"192-3": "B. Indian clothes"}
+{"193-1": "D. Pink shirts and black pants"}
+{"193-2": "D. When the woman bows to the audience"}
+{"193-3": "C. She puts it in her ear but fetches it from her mouth"}
+{"194-1": "C. Volunteers"}
+{"194-2": "A. The woman also feels his touch"}
+{"194-3": "D. He asks the woman to close her eyes"}
+{"195-1": "B. The balloon is popped and turns into a pigeon"}
+{"195-2": "C. An umbrella"}
+{"195-3": "D. Green, orange and pink"}
+{"196-1": "D. Cards"}
+{"196-2": "D. None of the above because he does not have hair"}
+{"196-3": "C. He sucks on a card"}
+{"197-1": "A. A lovable magic dragon"}
+{"197-2": "D. To catch the dog's poo"}
+{"197-3": "A. A stuffed toy of a dragon"}
+{"198-1": "C. The performer turns 50 dollars to 100"}
+{"198-2": "A. They both wear sunglasses"}
+{"198-3": "D. The man in black performs a money magic to another man in blue in public"}
+{"199-1": "B. Because they are twins"}
+{"199-2": "A. They draw curves on the screen"}
+{"199-3": "B. They dissipated and disappeared"}
+{"200-1": "B. A man is performing an amazing card trick for a woman over FaceTime"}
+{"200-2": "A. She burst into laughters and could not stop"}
+{"200-3": "C. A lot of windows and two sofa pillows"}
+{"201-1": "A. Halloween"}
+{"201-2": "C. She was scared by a prank"}
+{"201-3": "D. 3"}
+{"202-1": "B. 160"}
+{"202-2": "A. Blue"}
+{"202-3": "B. An obstacle course game"}
+{"203-1": "C. 9"}
+{"203-2": "D. Because they won the championship of America's Got Talent"}
+{"203-3": "A. White short hair"}
+{"204-1": "A. Nepal"}
+{"204-2": "B. Red"}
+{"204-3": "C. The world's shortest woman is taller than the world's shortest man"}
+{"205-1": "A. A dog broke the Guinness World Record for skateboarding"}
+{"205-2": "A. Blue and black T-shirt"}
+{"205-3": "C. White"}
+{"206-1": "A. 7"}
+{"206-2": "B. No"}
+{"206-3": "B. 5"}
+{"207-1": "D. Drawing game"}
+{"207-2": "B. 3"}
+{"207-3": "B. 2"}
+{"208-1": "B. Saxophone"}
+{"208-2": "A. The woman in gold clothes"}
+{"208-3": "C. 2"}
+{"209-1": "B. 3"}
+{"209-2": "A. United Kingdom"}
+{"209-3": "C. The woman"}
+{"210-1": "C. 2"}
+{"210-2": "B. Red and white"}
+{"210-3": "A. To raise awareness for Lou Gehrig's disease"}
+{"211-1": "B. She took a bow to the audience"}
+{"211-2": "C. A huge full moon with light effects"}
+{"211-3": "B. Blue"}
+{"212-1": "D. Full split"}
+{"212-2": "D. Excited"}
+{"212-3": "A. Pink"}
+{"213-1": "D. The ending pose in her performance is balancing on a single leg with two hands holding the other leg"}
+{"213-2": "D. A sparkling diamond piercing"}
+{"213-3": "C. Dress"}
+{"214-1": "A. The woman balances on the man's shoulders"}
+{"214-2": "B. A backflip with a twist"}
+{"214-3": "B. Black pants with a naked upper body"}
+{"215-1": "B. This video is mainly about several gymnastics teams participating an acrobatic competition"}
+{"215-2": "C. The ending pose of the team resembles a blossoming flower, with one person positioned in the center and two others on either side."}
+{"215-3": "B. 3"}
+{"216-1": "D. A yellow hat"}
+{"216-2": "B. It is colorful"}
+{"216-3": "A. More than 5 but less than or equal to 10"}
+{"217-1": "B. All of them have a strong build"}
+{"217-2": "C. Horse-vaulting"}
+{"217-3": "D. Red shorts and yellow pants"}
+{"218-1": "A. About 200cm"}
+{"218-2": "B. 2"}
+{"218-3": "A. White shirts and black shorts"}
+{"219-1": "B. In the theater stage"}
+{"219-2": "C. Stilts skills"}
+{"219-3": "B. A forest"}
+{"220-1": "C. A forward roll by the woman"}
+{"220-2": "C. Black"}
+{"220-3": "C. A male and a female player are practicing partner acrobatics"}
+{"221-1": "D. Hammer"}
+{"221-2": "A. Blue"}
+{"221-3": "A. Making a toy car with everyday objects"}
+{"222-1": "D. 12"}
+{"222-2": "D. Flower"}
+{"222-3": "B. Learning how to make a spoon candle holder"}
+{"223-1": "D. 3"}
+{"223-2": "B. Scissors"}
+{"223-3": "C. Learning how to DIY snow globes"}
+{"224-1": "D. None of above is right"}
+{"224-2": "B. Left"}
+{"224-3": "D. (d)(a)(c)(b)"}
+{"225-1": "B. 3"}
+{"225-2": "C. Square"}
+{"225-3": "B. A cat"}
+{"226-1": "D. 3"}
+{"226-2": "B. Plastic cup"}
+{"226-3": "D. There is no candle in this video"}
+{"227-1": "C. Eight small white caps are in a circle and above a big orange cap"}
+{"227-2": "D. A bloon and an ice cream"}
+{"227-3": "B. It serves as a cup coaster"}
+{"228-1": "A. 3*20 cm"}
+{"228-2": "B. 5"}
+{"228-3": "C. Cutting the paper into pieces"}
+{"229-1": "C. Both are pink"}
+{"229-2": "B. Off two corners to the center line"}
+{"229-3": "D. (c)(b)(a)"}
+{"230-1": "D. To drill a keyring hole on the popsicle stick"}
+{"230-2": "B. YouTube"}
+{"230-3": "C. Put the keychain through the hole"}
+{"231-1": "A. Egg"}
+{"231-2": "C. 2"}
+{"231-3": "D. Restaurant publicity"}
+{"232-1": "A. Cucumber"}
+{"232-2": "C. Tomato"}
+{"232-3": "C. Food-making tutorial"}
+{"233-1": "D. Mixer"}
+{"233-2": "B. Lime juice"}
+{"233-3": "A. Black truffle"}
+{"234-1": "B. Pink"}
+{"234-2": "C. Baking in the oven"}
+{"234-3": "D. Scone"}
+{"235-1": "B. Cut off the core of the pineapple so as not to affect the flavor"}
+{"235-2": "D. Brown"}
+{"235-3": "B. Cut off the head"}
+{"236-1": "B. 6"}
+{"236-2": "B. Pepper"}
+{"236-3": "A. Deep fry"}
+{"237-1": "A. Tiger"}
+{"237-2": "A. An introduction to eating healthy food"}
+{"237-3": "B. It eats healthy food"}
+{"238-1": "D. The birth of potato chips"}
+{"238-2": "C. Using both hands"}
+{"238-3": "C. He likes them both"}
+{"239-1": "B. BBQ"}
+{"239-2": "D. 1"}
+{"239-3": "B. Light blue"}
+{"240-1": "A. Destruction of illegal food at port"}
+{"240-2": "D. Grind"}
+{"240-3": "B. Agriculture"}
+{"241-1": "C. Blue"}
+{"241-2": "A. 3"}
+{"241-3": "B. How to makeup"}
+{"242-1": "A. Primer, BB cream, eyeshadow, mascara, highlighter, contour, blush, lipstick"}
+{"242-2": "D. 666"}
+{"242-3": "B. Bathroom"}
+{"243-1": "A. Green"}
+{"243-2": "B. 3"}
+{"243-3": "B. A sleeveless, bright pink dress"}
+{"244-1": "C. Dark purple"}
+{"244-2": "B. Sofa"}
+{"244-3": "C. Fashion advertising"}
+{"245-1": "A. A double-breasted beige coat"}
+{"245-2": "C. Trumpet"}
+{"245-3": "B. 3"}
+{"246-1": "B. Enjoyable"}
+{"246-2": "A. A two-piece outfit with a blue, red and white pattern"}
+{"246-3": "A. 3"}
+{"247-1": "B. Makeup artist"}
+{"247-2": "A. The eyebrow edges are very sharp"}
+{"247-3": "B. White"}
+{"248-1": "B. 8"}
+{"248-2": "B. Toner, face serum, eye cream, face cream"}
+{"248-3": "B. Ring finger"}
+{"249-1": "D. A striking green dress with a large, ruffled detail"}
+{"249-2": "A. Red Carpet at the Oscars"}
+{"249-3": "A. 13"}
+{"250-1": "C. How to refill perfume"}
+{"250-2": "B. 100mL"}
+{"250-3": "B. Triangular"}
+{"251-1": "B. Eating a meal"}
+{"251-2": "C. To watch TV"}
+{"251-3": "C. Washing her clothes"}
+{"252-1": "D. By walking"}
+{"252-2": "A. 2"}
+{"252-3": "C. 8:30"}
+{"253-1": "A. Drive a car"}
+{"253-2": "C. Take a shower"}
+{"253-3": "C. More than 1 hour"}
+{"254-1": "C. Train"}
+{"254-2": "C. Music class"}
+{"254-3": "C. Drum kit"}
+{"255-1": "B. Boxing exercise"}
+{"255-2": "A. 2"}
+{"255-3": "A. Curb"}
+{"256-1": "D. The daily work of a police records specialist"}
+{"256-2": "C. America"}
+{"256-3": "C. Working at the computer"}
+{"257-1": "A. By driving a car"}
+{"257-2": "D. Testing blood sugar"}
+{"257-3": "D. 0"}
+{"258-1": "C. White"}
+{"258-2": "A. Bench press"}
+{"258-3": "D. By driving a car"}
+{"259-1": "A. 5:59 a"}
+{"259-2": "C. Taking a shower"}
+{"259-3": "B. He performs a show for children"}
+{"260-1": "D. Google Pixel 3"}
+{"260-2": "D. Charging the cell phone"}
+{"260-3": "C. Photo shooting"}
+{"261-1": "B. Asia"}
+{"261-2": "C. White"}
+{"261-3": "D. Take a picture"}
+{"262-1": "D. Cruise liner"}
+{"262-2": "B. Summer"}
+{"262-3": "B. 3"}
+{"263-1": "C. Street dance"}
+{"263-2": "B. The Colosseum"}
+{"263-3": "D. Airplane"}
+{"264-1": "D. Australia"}
+{"264-2": "A. Kangaroo"}
+{"264-3": "B. Have a snowball fight"}
+{"265-1": "B. 46m"}
+{"265-2": "C. Bangkok"}
+{"265-3": "A. Disgust"}
+{"266-1": "D. Tour guide"}
+{"266-2": "C. Boating"}
+{"266-3": "C. White"}
+{"267-1": "A. Natural scenery"}
+{"267-2": "D. 2"}
+{"267-3": "B. 2"}
+{"268-1": "C. Nikon"}
+{"268-2": "D. Blue"}
+{"268-3": "A. Camera advertising"}
+{"269-1": "A. Stroller"}
+{"269-2": "C. Milk"}
+{"269-3": "D. Clear Weather"}
+{"270-1": "C. Hallstatt"}
+{"270-2": "C. Rail transport"}
+{"270-3": "C. Blue"}
+{"271-1": "B. 3"}
+{"271-2": "C. In a nest"}
+{"271-3": "D. A yellow mechine destroys the nest"}
+{"272-1": "D. A echidna"}
+{"272-2": "A. 1"}
+{"272-3": "C. Long"}
+{"273-1": "D. Under a car"}
+{"273-2": "C. Hiding under the car"}
+{"273-3": "C. Black"}
+{"274-1": "C. Skunks"}
+{"274-2": "A. 4"}
+{"274-3": "A. Sniffing the cyclist"}
+{"275-1": "A. Help the bunny shower"}
+{"275-2": "C. In a bathroom"}
+{"275-3": "D. Standing"}
+{"276-1": "B. A monkey"}
+{"276-2": "A. It is pulled in circles by a person"}
+{"276-3": "C. Black"}
+{"277-1": "D. Blue"}
+{"277-2": "B. Biting and pulling it"}
+{"277-3": "B. 2"}
+{"278-1": "B. 2"}
+{"278-2": "A. Blue"}
+{"278-3": "B. It lays down near the person"}
+{"279-1": "C. A raccoon"}
+{"279-2": "A. It eats the food and puts out the door"}
+{"279-3": "B. Night"}
+{"280-1": "B. Monkeys"}
+{"280-2": "A. 3"}
+{"280-3": "D. Red"}
+{"281-1": "B. Red light"}
+{"281-2": "C. 7"}
+{"281-3": "B. Woman in a black top and black shorts"}
+{"282-1": "C. Bare-chested man in black shorts"}
+{"282-2": "A. 4"}
+{"282-3": "A. 3"}
+{"283-1": "C. Play golf"}
+{"283-2": "D. Cycling"}
+{"283-3": "B. 2"}
+{"284-1": "C. Using the bar for pull-ups"}
+{"284-2": "A. Pull-ups with the assistance of an elastic rope"}
+{"284-3": "C. 2"}
+{"285-1": "B. 4"}
+{"285-2": "C. Pull-ups"}
+{"285-3": "C. Calf raises"}
+{"286-1": "B. 6"}
+{"286-2": "B. Black bench"}
+{"286-3": "B. Man wearing orange top and black shorts"}
+{"287-1": "A. Reaction speed"}
+{"287-2": "B. Head"}
+{"287-3": "B. The woman wearing a gray top and black shorts"}
+{"288-1": "C. Plank"}
+{"288-2": "A. Inside the circle"}
+{"288-3": "D. The woman in pink blouse and black trousers"}
+{"289-1": "D. 5"}
+{"289-2": "A. Push-ups"}
+{"289-3": "A. 5-15 seconds"}
+{"290-1": "D. 3"}
+{"290-2": "D. It is not mentioned in this video"}
+{"290-3": "D. It is unable to determine"}
+{"291-1": "D. City tourism services ad"}
+{"291-2": "B. Bike"}
+{"291-3": "C. White"}
+{"292-1": "A. Riding an electric scooter"}
+{"292-2": "B. Host"}
+{"292-3": "B. Two hours and forty-five minutes"}
+{"293-1": "B. Singapore Number 10 Player"}
+{"293-2": "B. Number seven scored a double"}
+{"293-3": "C. China struggled to match their past performance, ending the game in a 2-2 draw"}
+{"294-1": "B. He throws the scrambled Rubik's Cube into the air, and it immediately restores itself upon catching it"}
+{"294-2": "C. In a hospital"}
+{"294-3": "B. A red velvet cape"}
+{"295-1": "C. Purple"}
+{"295-2": "B. The duration of benefits"}
+{"295-3": "C. The German government provides financial assistance to those in need"}
+{"296-1": "C. Crocodile"}
+{"296-2": "A. The man sleeps with his pet"}
+{"296-3": "D. Mild"}
+{"297-1": "A. Wonton"}
+{"297-2": "C. Shrimp meat"}
+{"297-3": "D. Delicious"}
+{"298-1": "A. Track No"}
+{"298-2": "A. 8"}
+{"298-3": "D. Track No"}
+{"299-1": "B. The designation of Baekdu Mountain by UNESCO"}
+{"299-2": "C. In China"}
+{"299-3": "D. Green"}
+{"300-1": "C. He cannot sit here"}
+{"300-2": "A. To show the audience a positive example"}
+{"300-3": "B. Because 'ciao' meaning 'hello' is not formal enough"}
+{"301-1": "A. 4"}
+{"301-2": "A. Because Amazonian settlements were built with wood and earth"}
+{"301-3": "B. Fawcett"}
+{"302-1": "C. Because he played Tomas Andrew in the movie"}
+{"302-2": "B. Despite the lack of lifeboats, the Titanic met all the requirement"}
+{"302-3": "D. 9"}
+{"303-1": "C. 1300 BC - 2016 AD"}
+{"303-2": "D. (b)(a)(c)"}
+{"303-3": "B. What have humans discovered from deep-sea archaeology?"}
+{"304-1": "B. For public image"}
+{"304-2": "C. Napoleon"}
+{"304-3": "B. A map on the floor"}
+{"305-1": "B. Athena"}
+{"305-2": "C. Integrating traditional elements with modern ones in a harmonious manner"}
+{"305-3": "C. The Parthenon Temple was completed, Pheidias was accused of embezzlement, Pheidias accounted spending to prove his innocence, Pheidias left thanks to Athena's bless"}
+{"306-1": "C. One"}
+{"306-2": "B. Combing her hair"}
+{"306-3": "C. Plucked a golden hairpin and tore through the sky"}
+{"307-1": "C. Crixus died in a battle"}
+{"307-2": "B. Curly hair"}
+{"307-3": "B. The army marched beyond Rome's border"}
+{"308-1": "B. Caesar"}
+{"308-2": "B. Around 20 to 30"}
+{"308-3": "A. Dante thought Brutus was a selfless fighter against dictators"}
+{"309-1": "A. By holding a trial trying to evaluating his merits and demerits"}
+{"309-2": "C. Che Guevara's"}
+{"309-3": "B. He was captured and executed by Congo's government"}
+{"310-1": "A. 4"}
+{"310-2": "B. The disintegration of the soviet union"}
+{"310-3": "A. About 5 million"}
+{"311-1": "B. Mainly white and red"}
+{"311-2": "C. Artists in the Renaissance liked white marble because they wanted to imitated the Roman sculptures"}
+{"311-3": "A. By imagining the color that fits in well with the art work"}
+{"312-1": "A. Nike's logo"}
+{"312-2": "C. To illustrate that the logo's meaning is expressed by what people come to mind"}
+{"312-3": "B. They associated the product with the idea of athleticism."}
+{"313-1": "B. They both wear glasses"}
+{"313-2": "B. Disappointed"}
+{"313-3": "D. He is very enthusiastic when exposed to new playing techniques"}
+{"314-1": "C. None"}
+{"314-2": "A. Violin"}
+{"314-3": "D. Black"}
+{"315-1": "B. Black"}
+{"315-2": "D. The main character abruptly turned his car around and went home"}
+{"315-3": "D. He growed up in a colonial society"}
+{"316-1": "C. Thick beard"}
+{"316-2": "D. Rosencrantz and Guildenstern escorted hamlet on a diplomatic mission"}
+{"316-3": "B. Because Claudius asked the English king to protect Hamlet during their journey"}
+{"317-1": "C. Tissue paper"}
+{"317-2": "C. Impressionism"}
+{"317-3": "D. 1, 4, 3, 2"}
+{"318-1": "C. On the cathedral"}
+{"318-2": "D. The very stance of the sculpture was taken directly from classical antiquity"}
+{"318-3": "B. Ready for a fight"}
+{"319-1": "B. Green plaid shirt"}
+{"319-2": "A. Wangjing Soho"}
+{"319-3": "A. All of her works are built in the center of cities"}
+{"320-1": "B. Making tiny pottery"}
+{"320-2": "C. Because she paints marbel's texture to her works"}
+{"320-3": "A. Blue"}
+{"321-1": "A. Gene activation by Vitamin D"}
+{"321-2": "B. (c)(a)(b)"}
+{"321-3": "B. Transcription and coding of DNA"}
+{"322-1": "C. A clip about the human immune system"}
+{"322-2": "A. (b)(a)(c)"}
+{"322-3": "D. They can differentiate into many kinds of cells"}
+{"323-1": "A. Golgi apparatus (Golgi body)"}
+{"323-2": "A. Ribosomes and Endoplasmic Reticulum"}
+{"323-3": "C. (c)(b)(a)"}
+{"324-1": "B. It provides a simple explanation of the lymphatic system"}
+{"324-2": "A. Macrophages, dendritic cells, B-cells, and T-cells"}
+{"324-3": "D. It speeds up the rate at which lymph drains back into your blood"}
+{"325-1": "D. Telepathy allows the user to reach out and control pretty much everything interconnected"}
+{"325-2": "A. 512 electrodes"}
+{"325-3": "C. Neuralink"}
+{"326-1": "A. The future of medicine"}
+{"326-2": "C. Gene editing"}
+{"326-3": "B. A gene-editing technology"}
+{"327-1": "A. The role of nanorobotics in medical treatment"}
+{"327-2": "C. (b)(c)(a)"}
+{"327-3": "A. Respiratory diseases"}
+{"328-1": "D. Parkinson's disease and its impact on the nervous system"}
+{"328-2": "C. Over 6 million cases globally"}
+{"328-3": "C. Mitochondria are too inefficient, resulting in inactive neurons"}
+{"329-1": "B. The manufacture of durable artificial hearts"}
+{"329-2": "B. 6,000 transplants were performed, 600,000 were requested in the U"}
+{"329-3": "B. BiVACOR is developing a temporary device for heart assistance during surgery"}
+{"330-1": "D. Neurological development of the human brain from infancy to adulthood"}
+{"330-2": "C. Brain waves of the human brain were demonstrated and analyzed"}
+{"330-3": "D. 'Natural death' or 'aging' of neurons in the brain"}
+{"331-1": "C. Dairy Queen"}
+{"331-2": "B. $27 per share"}
+{"331-3": "B. Warren Buffett, Jeff Bezos, Elon Musk"}
+{"332-1": "D. Bicycle factory closed"}
+{"332-2": "B. 6%"}
+{"332-3": "A. There is excess liquidity in the market"}
+{"333-1": "C. Company Executive"}
+{"333-2": "C. 2011"}
+{"333-3": "D. Innovation"}
+{"334-1": "C. The operational process of money laundering"}
+{"334-2": "B. Phase two"}
+{"334-3": "C. Pizza parlors, dice, the United Nations emblem"}
+{"335-1": "A. 4"}
+{"335-2": "D. They eagerly invested in them, believing they were low-risk and offered high returns"}
+{"335-3": "A. Predatory lending practices and a housing market bubble"}
+{"336-1": "B. Investing in a diverse range of companies through a low-cost index fund"}
+{"336-2": "D. Companies may neglect long-term investments that benefit the overall economy"}
+{"336-3": "A. The Dow Jones Industrial Average reaches record highs while wages remain stagnant"}
+{"337-1": "C. Buy futures contracts for corn"}
+{"337-2": "A. It provides maize producers and users with tools to manage price risk and ensure stability"}
+{"337-3": "C. He might have to sell their corn at a lower price than anticipated during harvest"}
+{"338-1": "C. The Federal Reserve committed to purchasing an unprecedented amount of US Treasury bonds"}
+{"338-2": "A. It can lead to severe inflation, devaluing the existing money supply and hurting the economy"}
+{"338-3": "D. Federal Reserve Building"}
+{"339-1": "A. Access to the brand's established customer base and loyalty program"}
+{"339-2": "D. Fluctuations in demand based on events and day of the week"}
+{"339-3": "C. Upscale"}
+{"340-1": "C. The core factors that affect stock price fluctuations"}
+{"340-2": "C. A mouse emerged from the drink"}
+{"340-3": "B. 4"}
+{"341-1": "C. A day in the life of an astronaut on the ISS"}
+{"341-2": "D. How to brush teeth"}
+{"341-3": "A. 3"}
+{"342-1": "D. Conducting a spacewalk outside the ISS"}

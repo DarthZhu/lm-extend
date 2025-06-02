@@ -1,0 +1,1695 @@
+Tensor name: model.embed_tokens.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0025634765625
+LLaVA-Video-7B-Qwen2's delta avg: 0.000629425048828125
+llava-onevision-qwen2-7b-si's delta avg: 0.0005340576171875
+
+Tensor name: model.layers.0.self_attn.q_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0027923583984375
+LLaVA-Video-7B-Qwen2's delta avg: 0.0010986328125
+llava-onevision-qwen2-7b-si's delta avg: 0.00092315673828125
+
+Tensor name: model.layers.0.self_attn.q_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.003875732421875
+LLaVA-Video-7B-Qwen2's delta avg: 0.000904083251953125
+llava-onevision-qwen2-7b-si's delta avg: 0.0007476806640625
+
+Tensor name: model.layers.0.self_attn.k_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.002685546875
+LLaVA-Video-7B-Qwen2's delta avg: 0.00102996826171875
+llava-onevision-qwen2-7b-si's delta avg: 0.000865936279296875
+
+Tensor name: model.layers.0.self_attn.k_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.036865234375
+LLaVA-Video-7B-Qwen2's delta avg: 0.00113677978515625
+llava-onevision-qwen2-7b-si's delta avg: 0.000843048095703125
+
+Tensor name: model.layers.0.self_attn.v_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0013885498046875
+LLaVA-Video-7B-Qwen2's delta avg: 0.000835418701171875
+llava-onevision-qwen2-7b-si's delta avg: 0.0007171630859375
+
+Tensor name: model.layers.0.self_attn.v_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.00106048583984375
+LLaVA-Video-7B-Qwen2's delta avg: 0.00025177001953125
+llava-onevision-qwen2-7b-si's delta avg: 0.00021457672119140625
+
+Tensor name: model.layers.0.self_attn.o_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.00225830078125
+LLaVA-Video-7B-Qwen2's delta avg: 0.00101470947265625
+llava-onevision-qwen2-7b-si's delta avg: 0.0008544921875
+
+Tensor name: model.layers.0.mlp.gate_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.00262451171875
+LLaVA-Video-7B-Qwen2's delta avg: 0.000957489013671875
+llava-onevision-qwen2-7b-si's delta avg: 0.00079345703125
+
+Tensor name: model.layers.0.mlp.up_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0028076171875
+LLaVA-Video-7B-Qwen2's delta avg: 0.00104522705078125
+llava-onevision-qwen2-7b-si's delta avg: 0.0008697509765625
+
+Tensor name: model.layers.0.mlp.down_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0028076171875
+LLaVA-Video-7B-Qwen2's delta avg: 0.00109100341796875
+llava-onevision-qwen2-7b-si's delta avg: 0.000911712646484375
+
+Tensor name: model.layers.0.input_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0024871826171875
+LLaVA-Video-7B-Qwen2's delta avg: 0.0009307861328125
+llava-onevision-qwen2-7b-si's delta avg: 0.000751495361328125
+
+Tensor name: model.layers.0.post_attention_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.008544921875
+LLaVA-Video-7B-Qwen2's delta avg: 0.00147247314453125
+llava-onevision-qwen2-7b-si's delta avg: 0.00112152099609375
+
+Tensor name: model.layers.1.self_attn.q_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0023193359375
+LLaVA-Video-7B-Qwen2's delta avg: 0.000873565673828125
+llava-onevision-qwen2-7b-si's delta avg: 0.00072479248046875
+
+Tensor name: model.layers.1.self_attn.q_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.0032501220703125
+LLaVA-Video-7B-Qwen2's delta avg: 0.000675201416015625
+llava-onevision-qwen2-7b-si's delta avg: 0.000560760498046875
+
+Tensor name: model.layers.1.self_attn.k_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.002685546875
+LLaVA-Video-7B-Qwen2's delta avg: 0.00102996826171875
+llava-onevision-qwen2-7b-si's delta avg: 0.000835418701171875
+
+Tensor name: model.layers.1.self_attn.k_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.0162353515625
+LLaVA-Video-7B-Qwen2's delta avg: 0.0008544921875
+llava-onevision-qwen2-7b-si's delta avg: 0.000728607177734375
+
+Tensor name: model.layers.1.self_attn.v_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.002105712890625
+LLaVA-Video-7B-Qwen2's delta avg: 0.000904083251953125
+llava-onevision-qwen2-7b-si's delta avg: 0.00075531005859375
+
+Tensor name: model.layers.1.self_attn.v_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.000423431396484375
+LLaVA-Video-7B-Qwen2's delta avg: 0.000225067138671875
+llava-onevision-qwen2-7b-si's delta avg: 0.000225067138671875
+
+Tensor name: model.layers.1.self_attn.o_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0026397705078125
+LLaVA-Video-7B-Qwen2's delta avg: 0.001007080078125
+llava-onevision-qwen2-7b-si's delta avg: 0.000843048095703125
+
+Tensor name: model.layers.1.mlp.gate_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.002044677734375
+LLaVA-Video-7B-Qwen2's delta avg: 0.00086212158203125
+llava-onevision-qwen2-7b-si's delta avg: 0.0007476806640625
+
+Tensor name: model.layers.1.mlp.up_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.00186920166015625
+LLaVA-Video-7B-Qwen2's delta avg: 0.000823974609375
+llava-onevision-qwen2-7b-si's delta avg: 0.00069427490234375
+
+Tensor name: model.layers.1.mlp.down_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0019683837890625
+LLaVA-Video-7B-Qwen2's delta avg: 0.000942230224609375
+llava-onevision-qwen2-7b-si's delta avg: 0.00079345703125
+
+Tensor name: model.layers.1.input_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0023651123046875
+LLaVA-Video-7B-Qwen2's delta avg: 0.00099945068359375
+llava-onevision-qwen2-7b-si's delta avg: 0.00078582763671875
+
+Tensor name: model.layers.1.post_attention_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0123291015625
+LLaVA-Video-7B-Qwen2's delta avg: 0.000301361083984375
+llava-onevision-qwen2-7b-si's delta avg: 0.0002079010009765625
+
+Tensor name: model.layers.2.self_attn.q_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0030975341796875
+LLaVA-Video-7B-Qwen2's delta avg: 0.0010833740234375
+llava-onevision-qwen2-7b-si's delta avg: 0.00090789794921875
+
+Tensor name: model.layers.2.self_attn.q_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.0025787353515625
+LLaVA-Video-7B-Qwen2's delta avg: 0.000659942626953125
+llava-onevision-qwen2-7b-si's delta avg: 0.000545501708984375
+
+Tensor name: model.layers.2.self_attn.k_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0030364990234375
+LLaVA-Video-7B-Qwen2's delta avg: 0.00107574462890625
+llava-onevision-qwen2-7b-si's delta avg: 0.000904083251953125
+
+Tensor name: model.layers.2.self_attn.k_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.0126953125
+LLaVA-Video-7B-Qwen2's delta avg: 0.000759124755859375
+llava-onevision-qwen2-7b-si's delta avg: 0.00067138671875
+
+Tensor name: model.layers.2.self_attn.v_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.002197265625
+LLaVA-Video-7B-Qwen2's delta avg: 0.00095367431640625
+llava-onevision-qwen2-7b-si's delta avg: 0.00079345703125
+
+Tensor name: model.layers.2.self_attn.v_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.000522613525390625
+LLaVA-Video-7B-Qwen2's delta avg: 0.00022029876708984375
+llava-onevision-qwen2-7b-si's delta avg: 0.000202178955078125
+
+Tensor name: model.layers.2.self_attn.o_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0026702880859375
+LLaVA-Video-7B-Qwen2's delta avg: 0.0010223388671875
+llava-onevision-qwen2-7b-si's delta avg: 0.0008544921875
+
+Tensor name: model.layers.2.mlp.gate_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.002410888671875
+LLaVA-Video-7B-Qwen2's delta avg: 0.000949859619140625
+llava-onevision-qwen2-7b-si's delta avg: 0.000804901123046875
+
+Tensor name: model.layers.2.mlp.up_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.002288818359375
+LLaVA-Video-7B-Qwen2's delta avg: 0.0009765625
+llava-onevision-qwen2-7b-si's delta avg: 0.000823974609375
+
+Tensor name: model.layers.2.mlp.down_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0023651123046875
+LLaVA-Video-7B-Qwen2's delta avg: 0.0010223388671875
+llava-onevision-qwen2-7b-si's delta avg: 0.00086212158203125
+
+Tensor name: model.layers.2.input_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0057373046875
+LLaVA-Video-7B-Qwen2's delta avg: 0.00070953369140625
+llava-onevision-qwen2-7b-si's delta avg: 0.0005645751953125
+
+Tensor name: model.layers.2.post_attention_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.01275634765625
+LLaVA-Video-7B-Qwen2's delta avg: 0.000514984130859375
+llava-onevision-qwen2-7b-si's delta avg: 0.000308990478515625
+
+Tensor name: model.layers.3.self_attn.q_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.003265380859375
+LLaVA-Video-7B-Qwen2's delta avg: 0.0011444091796875
+llava-onevision-qwen2-7b-si's delta avg: 0.0009613037109375
+
+Tensor name: model.layers.3.self_attn.q_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.001922607421875
+LLaVA-Video-7B-Qwen2's delta avg: 0.0004405975341796875
+llava-onevision-qwen2-7b-si's delta avg: 0.000370025634765625
+
+Tensor name: model.layers.3.self_attn.k_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0032958984375
+LLaVA-Video-7B-Qwen2's delta avg: 0.00112152099609375
+llava-onevision-qwen2-7b-si's delta avg: 0.000942230224609375
+
+Tensor name: model.layers.3.self_attn.k_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.01531982421875
+LLaVA-Video-7B-Qwen2's delta avg: 0.0008392333984375
+llava-onevision-qwen2-7b-si's delta avg: 0.000720977783203125
+
+Tensor name: model.layers.3.self_attn.v_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.002166748046875
+LLaVA-Video-7B-Qwen2's delta avg: 0.00098419189453125
+llava-onevision-qwen2-7b-si's delta avg: 0.000827789306640625
+
+Tensor name: model.layers.3.self_attn.v_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.00037384033203125
+LLaVA-Video-7B-Qwen2's delta avg: 0.00010824203491210938
+llava-onevision-qwen2-7b-si's delta avg: 0.0001049041748046875
+
+Tensor name: model.layers.3.self_attn.o_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0024871826171875
+LLaVA-Video-7B-Qwen2's delta avg: 0.00101470947265625
+llava-onevision-qwen2-7b-si's delta avg: 0.000850677490234375
+
+Tensor name: model.layers.3.mlp.gate_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0030670166015625
+LLaVA-Video-7B-Qwen2's delta avg: 0.001129150390625
+llava-onevision-qwen2-7b-si's delta avg: 0.00095367431640625
+
+Tensor name: model.layers.3.mlp.up_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0027923583984375
+LLaVA-Video-7B-Qwen2's delta avg: 0.001068115234375
+llava-onevision-qwen2-7b-si's delta avg: 0.0009002685546875
+
+Tensor name: model.layers.3.mlp.down_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.00286865234375
+LLaVA-Video-7B-Qwen2's delta avg: 0.0010833740234375
+llava-onevision-qwen2-7b-si's delta avg: 0.00090789794921875
+
+Tensor name: model.layers.3.input_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.006195068359375
+LLaVA-Video-7B-Qwen2's delta avg: 0.000911712646484375
+llava-onevision-qwen2-7b-si's delta avg: 0.0007476806640625
+
+Tensor name: model.layers.3.post_attention_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0164794921875
+LLaVA-Video-7B-Qwen2's delta avg: 4.2438507080078125e-05
+llava-onevision-qwen2-7b-si's delta avg: 3.3855438232421875e-05
+
+Tensor name: model.layers.4.self_attn.q_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0032806396484375
+LLaVA-Video-7B-Qwen2's delta avg: 0.001129150390625
+llava-onevision-qwen2-7b-si's delta avg: 0.000949859619140625
+
+Tensor name: model.layers.4.self_attn.q_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.0015106201171875
+LLaVA-Video-7B-Qwen2's delta avg: 0.0004787445068359375
+llava-onevision-qwen2-7b-si's delta avg: 0.0003833770751953125
+
+Tensor name: model.layers.4.self_attn.k_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0034942626953125
+LLaVA-Video-7B-Qwen2's delta avg: 0.0011444091796875
+llava-onevision-qwen2-7b-si's delta avg: 0.000957489013671875
+
+Tensor name: model.layers.4.self_attn.k_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.007720947265625
+LLaVA-Video-7B-Qwen2's delta avg: 0.00103759765625
+llava-onevision-qwen2-7b-si's delta avg: 0.000789642333984375
+
+Tensor name: model.layers.4.self_attn.v_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0028228759765625
+LLaVA-Video-7B-Qwen2's delta avg: 0.0010528564453125
+llava-onevision-qwen2-7b-si's delta avg: 0.000881195068359375
+
+Tensor name: model.layers.4.self_attn.v_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.0005340576171875
+LLaVA-Video-7B-Qwen2's delta avg: 0.000286102294921875
+llava-onevision-qwen2-7b-si's delta avg: 0.0002498626708984375
+
+Tensor name: model.layers.4.self_attn.o_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0029296875
+LLaVA-Video-7B-Qwen2's delta avg: 0.0010223388671875
+llava-onevision-qwen2-7b-si's delta avg: 0.000858306884765625
+
+Tensor name: model.layers.4.mlp.gate_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.003173828125
+LLaVA-Video-7B-Qwen2's delta avg: 0.00115203857421875
+llava-onevision-qwen2-7b-si's delta avg: 0.00096893310546875
+
+Tensor name: model.layers.4.mlp.up_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0027923583984375
+LLaVA-Video-7B-Qwen2's delta avg: 0.00107574462890625
+llava-onevision-qwen2-7b-si's delta avg: 0.00090789794921875
+
+Tensor name: model.layers.4.mlp.down_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0029144287109375
+LLaVA-Video-7B-Qwen2's delta avg: 0.00109100341796875
+llava-onevision-qwen2-7b-si's delta avg: 0.00091552734375
+
+Tensor name: model.layers.4.input_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.008056640625
+LLaVA-Video-7B-Qwen2's delta avg: 0.000827789306640625
+llava-onevision-qwen2-7b-si's delta avg: 0.000682830810546875
+
+Tensor name: model.layers.4.post_attention_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0166015625
+LLaVA-Video-7B-Qwen2's delta avg: 9.72747802734375e-05
+llava-onevision-qwen2-7b-si's delta avg: 5.888938903808594e-05
+
+Tensor name: model.layers.5.self_attn.q_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.00341796875
+LLaVA-Video-7B-Qwen2's delta avg: 0.0011444091796875
+llava-onevision-qwen2-7b-si's delta avg: 0.000965118408203125
+
+Tensor name: model.layers.5.self_attn.q_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.0012054443359375
+LLaVA-Video-7B-Qwen2's delta avg: 0.00042724609375
+llava-onevision-qwen2-7b-si's delta avg: 0.0003452301025390625
+
+Tensor name: model.layers.5.self_attn.k_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.00323486328125
+LLaVA-Video-7B-Qwen2's delta avg: 0.0011138916015625
+llava-onevision-qwen2-7b-si's delta avg: 0.000942230224609375
+
+Tensor name: model.layers.5.self_attn.k_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.0059814453125
+LLaVA-Video-7B-Qwen2's delta avg: 0.00077056884765625
+llava-onevision-qwen2-7b-si's delta avg: 0.00058746337890625
+
+Tensor name: model.layers.5.self_attn.v_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.00274658203125
+LLaVA-Video-7B-Qwen2's delta avg: 0.00106048583984375
+llava-onevision-qwen2-7b-si's delta avg: 0.000888824462890625
+
+Tensor name: model.layers.5.self_attn.v_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.0004558563232421875
+LLaVA-Video-7B-Qwen2's delta avg: 0.0002536773681640625
+llava-onevision-qwen2-7b-si's delta avg: 0.00023651123046875
+
+Tensor name: model.layers.5.self_attn.o_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.00299072265625
+LLaVA-Video-7B-Qwen2's delta avg: 0.00103759765625
+llava-onevision-qwen2-7b-si's delta avg: 0.000865936279296875
+
+Tensor name: model.layers.5.mlp.gate_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0032501220703125
+LLaVA-Video-7B-Qwen2's delta avg: 0.0011749267578125
+llava-onevision-qwen2-7b-si's delta avg: 0.0009918212890625
+
+Tensor name: model.layers.5.mlp.up_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0028839111328125
+LLaVA-Video-7B-Qwen2's delta avg: 0.00110626220703125
+llava-onevision-qwen2-7b-si's delta avg: 0.00093841552734375
+
+Tensor name: model.layers.5.mlp.down_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0029754638671875
+LLaVA-Video-7B-Qwen2's delta avg: 0.00110626220703125
+llava-onevision-qwen2-7b-si's delta avg: 0.000934600830078125
+
+Tensor name: model.layers.5.input_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.005401611328125
+LLaVA-Video-7B-Qwen2's delta avg: 0.000652313232421875
+llava-onevision-qwen2-7b-si's delta avg: 0.000537872314453125
+
+Tensor name: model.layers.5.post_attention_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0191650390625
+LLaVA-Video-7B-Qwen2's delta avg: 4.792213439941406e-05
+llava-onevision-qwen2-7b-si's delta avg: 3.600120544433594e-05
+
+Tensor name: model.layers.6.self_attn.q_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.00323486328125
+LLaVA-Video-7B-Qwen2's delta avg: 0.00116729736328125
+llava-onevision-qwen2-7b-si's delta avg: 0.00098419189453125
+
+Tensor name: model.layers.6.self_attn.q_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.0014190673828125
+LLaVA-Video-7B-Qwen2's delta avg: 0.0004291534423828125
+llava-onevision-qwen2-7b-si's delta avg: 0.0003509521484375
+
+Tensor name: model.layers.6.self_attn.k_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0029754638671875
+LLaVA-Video-7B-Qwen2's delta avg: 0.001129150390625
+llava-onevision-qwen2-7b-si's delta avg: 0.000949859619140625
+
+Tensor name: model.layers.6.self_attn.k_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.0081787109375
+LLaVA-Video-7B-Qwen2's delta avg: 0.000858306884765625
+llava-onevision-qwen2-7b-si's delta avg: 0.000667572021484375
+
+Tensor name: model.layers.6.self_attn.v_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0024261474609375
+LLaVA-Video-7B-Qwen2's delta avg: 0.0010833740234375
+llava-onevision-qwen2-7b-si's delta avg: 0.00091552734375
+
+Tensor name: model.layers.6.self_attn.v_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.000530242919921875
+LLaVA-Video-7B-Qwen2's delta avg: 0.0002841949462890625
+llava-onevision-qwen2-7b-si's delta avg: 0.000247955322265625
+
+Tensor name: model.layers.6.self_attn.o_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.00262451171875
+LLaVA-Video-7B-Qwen2's delta avg: 0.0010223388671875
+llava-onevision-qwen2-7b-si's delta avg: 0.0008544921875
+
+Tensor name: model.layers.6.mlp.gate_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0032501220703125
+LLaVA-Video-7B-Qwen2's delta avg: 0.001190185546875
+llava-onevision-qwen2-7b-si's delta avg: 0.00099945068359375
+
+Tensor name: model.layers.6.mlp.up_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0028533935546875
+LLaVA-Video-7B-Qwen2's delta avg: 0.0010986328125
+llava-onevision-qwen2-7b-si's delta avg: 0.00092315673828125
+
+Tensor name: model.layers.6.mlp.down_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.002899169921875
+LLaVA-Video-7B-Qwen2's delta avg: 0.00110626220703125
+llava-onevision-qwen2-7b-si's delta avg: 0.000926971435546875
+
+Tensor name: model.layers.6.input_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.005096435546875
+LLaVA-Video-7B-Qwen2's delta avg: 0.000728607177734375
+llava-onevision-qwen2-7b-si's delta avg: 0.000560760498046875
+
+Tensor name: model.layers.6.post_attention_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.00775146484375
+LLaVA-Video-7B-Qwen2's delta avg: 0.000347137451171875
+llava-onevision-qwen2-7b-si's delta avg: 0.000308990478515625
+
+Tensor name: model.layers.7.self_attn.q_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.00323486328125
+LLaVA-Video-7B-Qwen2's delta avg: 0.001190185546875
+llava-onevision-qwen2-7b-si's delta avg: 0.00099945068359375
+
+Tensor name: model.layers.7.self_attn.q_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.0020751953125
+LLaVA-Video-7B-Qwen2's delta avg: 0.000629425048828125
+llava-onevision-qwen2-7b-si's delta avg: 0.00052642822265625
+
+Tensor name: model.layers.7.self_attn.k_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0029754638671875
+LLaVA-Video-7B-Qwen2's delta avg: 0.00113677978515625
+llava-onevision-qwen2-7b-si's delta avg: 0.000957489013671875
+
+Tensor name: model.layers.7.self_attn.k_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.01068115234375
+LLaVA-Video-7B-Qwen2's delta avg: 0.00089263916015625
+llava-onevision-qwen2-7b-si's delta avg: 0.000766754150390625
+
+Tensor name: model.layers.7.self_attn.v_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0023345947265625
+LLaVA-Video-7B-Qwen2's delta avg: 0.0010223388671875
+llava-onevision-qwen2-7b-si's delta avg: 0.0008544921875
+
+Tensor name: model.layers.7.self_attn.v_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.0005950927734375
+LLaVA-Video-7B-Qwen2's delta avg: 0.0002841949462890625
+llava-onevision-qwen2-7b-si's delta avg: 0.0002460479736328125
+
+Tensor name: model.layers.7.self_attn.o_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0025634765625
+LLaVA-Video-7B-Qwen2's delta avg: 0.00101470947265625
+llava-onevision-qwen2-7b-si's delta avg: 0.000850677490234375
+
+Tensor name: model.layers.7.mlp.gate_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.00323486328125
+LLaVA-Video-7B-Qwen2's delta avg: 0.001190185546875
+llava-onevision-qwen2-7b-si's delta avg: 0.00099945068359375
+
+Tensor name: model.layers.7.mlp.up_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0029449462890625
+LLaVA-Video-7B-Qwen2's delta avg: 0.0010986328125
+llava-onevision-qwen2-7b-si's delta avg: 0.000919342041015625
+
+Tensor name: model.layers.7.mlp.down_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.002899169921875
+LLaVA-Video-7B-Qwen2's delta avg: 0.00109100341796875
+llava-onevision-qwen2-7b-si's delta avg: 0.000911712646484375
+
+Tensor name: model.layers.7.input_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.004486083984375
+LLaVA-Video-7B-Qwen2's delta avg: 0.000659942626953125
+llava-onevision-qwen2-7b-si's delta avg: 0.000553131103515625
+
+Tensor name: model.layers.7.post_attention_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.00830078125
+LLaVA-Video-7B-Qwen2's delta avg: 0.000698089599609375
+llava-onevision-qwen2-7b-si's delta avg: 0.000637054443359375
+
+Tensor name: model.layers.8.self_attn.q_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0033111572265625
+LLaVA-Video-7B-Qwen2's delta avg: 0.001190185546875
+llava-onevision-qwen2-7b-si's delta avg: 0.00099945068359375
+
+Tensor name: model.layers.8.self_attn.q_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.00193023681640625
+LLaVA-Video-7B-Qwen2's delta avg: 0.000576019287109375
+llava-onevision-qwen2-7b-si's delta avg: 0.000484466552734375
+
+Tensor name: model.layers.8.self_attn.k_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0030975341796875
+LLaVA-Video-7B-Qwen2's delta avg: 0.0011444091796875
+llava-onevision-qwen2-7b-si's delta avg: 0.000972747802734375
+
+Tensor name: model.layers.8.self_attn.k_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.0091552734375
+LLaVA-Video-7B-Qwen2's delta avg: 0.00096893310546875
+llava-onevision-qwen2-7b-si's delta avg: 0.000827789306640625
+
+Tensor name: model.layers.8.self_attn.v_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0024566650390625
+LLaVA-Video-7B-Qwen2's delta avg: 0.00104522705078125
+llava-onevision-qwen2-7b-si's delta avg: 0.000881195068359375
+
+Tensor name: model.layers.8.self_attn.v_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.00107574462890625
+LLaVA-Video-7B-Qwen2's delta avg: 0.0004253387451171875
+llava-onevision-qwen2-7b-si's delta avg: 0.0003662109375
+
+Tensor name: model.layers.8.self_attn.o_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.002593994140625
+LLaVA-Video-7B-Qwen2's delta avg: 0.0009918212890625
+llava-onevision-qwen2-7b-si's delta avg: 0.00083160400390625
+
+Tensor name: model.layers.8.mlp.gate_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0032501220703125
+LLaVA-Video-7B-Qwen2's delta avg: 0.0011749267578125
+llava-onevision-qwen2-7b-si's delta avg: 0.00098419189453125
+
+Tensor name: model.layers.8.mlp.up_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.003021240234375
+LLaVA-Video-7B-Qwen2's delta avg: 0.0010833740234375
+llava-onevision-qwen2-7b-si's delta avg: 0.00090789794921875
+
+Tensor name: model.layers.8.mlp.down_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0030059814453125
+LLaVA-Video-7B-Qwen2's delta avg: 0.0010986328125
+llava-onevision-qwen2-7b-si's delta avg: 0.00091552734375
+
+Tensor name: model.layers.8.input_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.00616455078125
+LLaVA-Video-7B-Qwen2's delta avg: 0.000514984130859375
+llava-onevision-qwen2-7b-si's delta avg: 0.0004138946533203125
+
+Tensor name: model.layers.8.post_attention_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.00640869140625
+LLaVA-Video-7B-Qwen2's delta avg: 0.0003871917724609375
+llava-onevision-qwen2-7b-si's delta avg: 0.0003337860107421875
+
+Tensor name: model.layers.9.self_attn.q_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.003326416015625
+LLaVA-Video-7B-Qwen2's delta avg: 0.0012054443359375
+llava-onevision-qwen2-7b-si's delta avg: 0.001007080078125
+
+Tensor name: model.layers.9.self_attn.q_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.00189208984375
+LLaVA-Video-7B-Qwen2's delta avg: 0.00061798095703125
+llava-onevision-qwen2-7b-si's delta avg: 0.000507354736328125
+
+Tensor name: model.layers.9.self_attn.k_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0030059814453125
+LLaVA-Video-7B-Qwen2's delta avg: 0.00113677978515625
+llava-onevision-qwen2-7b-si's delta avg: 0.000957489013671875
+
+Tensor name: model.layers.9.self_attn.k_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.0093994140625
+LLaVA-Video-7B-Qwen2's delta avg: 0.000858306884765625
+llava-onevision-qwen2-7b-si's delta avg: 0.00072479248046875
+
+Tensor name: model.layers.9.self_attn.v_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0022430419921875
+LLaVA-Video-7B-Qwen2's delta avg: 0.001007080078125
+llava-onevision-qwen2-7b-si's delta avg: 0.000843048095703125
+
+Tensor name: model.layers.9.self_attn.v_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.00054931640625
+LLaVA-Video-7B-Qwen2's delta avg: 0.0002613067626953125
+llava-onevision-qwen2-7b-si's delta avg: 0.00022983551025390625
+
+Tensor name: model.layers.9.self_attn.o_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0025787353515625
+LLaVA-Video-7B-Qwen2's delta avg: 0.0009918212890625
+llava-onevision-qwen2-7b-si's delta avg: 0.000835418701171875
+
+Tensor name: model.layers.9.mlp.gate_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0033721923828125
+LLaVA-Video-7B-Qwen2's delta avg: 0.00118255615234375
+llava-onevision-qwen2-7b-si's delta avg: 0.0009918212890625
+
+Tensor name: model.layers.9.mlp.up_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.002685546875
+LLaVA-Video-7B-Qwen2's delta avg: 0.00103759765625
+llava-onevision-qwen2-7b-si's delta avg: 0.000873565673828125
+
+Tensor name: model.layers.9.mlp.down_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0027313232421875
+LLaVA-Video-7B-Qwen2's delta avg: 0.0010528564453125
+llava-onevision-qwen2-7b-si's delta avg: 0.000885009765625
+
+Tensor name: model.layers.9.input_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.004058837890625
+LLaVA-Video-7B-Qwen2's delta avg: 0.0003719329833984375
+llava-onevision-qwen2-7b-si's delta avg: 0.0003204345703125
+
+Tensor name: model.layers.9.post_attention_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.00872802734375
+LLaVA-Video-7B-Qwen2's delta avg: 0.000453948974609375
+llava-onevision-qwen2-7b-si's delta avg: 0.0004100799560546875
+
+Tensor name: model.layers.10.self_attn.q_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.00335693359375
+LLaVA-Video-7B-Qwen2's delta avg: 0.00118255615234375
+llava-onevision-qwen2-7b-si's delta avg: 0.00099945068359375
+
+Tensor name: model.layers.10.self_attn.q_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.0017547607421875
+LLaVA-Video-7B-Qwen2's delta avg: 0.00054931640625
+llava-onevision-qwen2-7b-si's delta avg: 0.000446319580078125
+
+Tensor name: model.layers.10.self_attn.k_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0030670166015625
+LLaVA-Video-7B-Qwen2's delta avg: 0.001129150390625
+llava-onevision-qwen2-7b-si's delta avg: 0.00095367431640625
+
+Tensor name: model.layers.10.self_attn.k_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.007720947265625
+LLaVA-Video-7B-Qwen2's delta avg: 0.00099945068359375
+llava-onevision-qwen2-7b-si's delta avg: 0.00080108642578125
+
+Tensor name: model.layers.10.self_attn.v_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.00238037109375
+LLaVA-Video-7B-Qwen2's delta avg: 0.00104522705078125
+llava-onevision-qwen2-7b-si's delta avg: 0.000885009765625
+
+Tensor name: model.layers.10.self_attn.v_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.000789642333984375
+LLaVA-Video-7B-Qwen2's delta avg: 0.000408172607421875
+llava-onevision-qwen2-7b-si's delta avg: 0.0003757476806640625
+
+Tensor name: model.layers.10.self_attn.o_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0025634765625
+LLaVA-Video-7B-Qwen2's delta avg: 0.0009765625
+llava-onevision-qwen2-7b-si's delta avg: 0.000820159912109375
+
+Tensor name: model.layers.10.mlp.gate_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.003265380859375
+LLaVA-Video-7B-Qwen2's delta avg: 0.0011749267578125
+llava-onevision-qwen2-7b-si's delta avg: 0.0009918212890625
+
+Tensor name: model.layers.10.mlp.up_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.00286865234375
+LLaVA-Video-7B-Qwen2's delta avg: 0.00106048583984375
+llava-onevision-qwen2-7b-si's delta avg: 0.000885009765625
+
+Tensor name: model.layers.10.mlp.down_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.00286865234375
+LLaVA-Video-7B-Qwen2's delta avg: 0.00107574462890625
+llava-onevision-qwen2-7b-si's delta avg: 0.000896453857421875
+
+Tensor name: model.layers.10.input_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.004913330078125
+LLaVA-Video-7B-Qwen2's delta avg: 0.0004291534423828125
+llava-onevision-qwen2-7b-si's delta avg: 0.0003604888916015625
+
+Tensor name: model.layers.10.post_attention_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.007537841796875
+LLaVA-Video-7B-Qwen2's delta avg: 0.000492095947265625
+llava-onevision-qwen2-7b-si's delta avg: 0.0004100799560546875
+
+Tensor name: model.layers.11.self_attn.q_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0032958984375
+LLaVA-Video-7B-Qwen2's delta avg: 0.001190185546875
+llava-onevision-qwen2-7b-si's delta avg: 0.00099945068359375
+
+Tensor name: model.layers.11.self_attn.q_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.002044677734375
+LLaVA-Video-7B-Qwen2's delta avg: 0.0005950927734375
+llava-onevision-qwen2-7b-si's delta avg: 0.00051116943359375
+
+Tensor name: model.layers.11.self_attn.k_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0031585693359375
+LLaVA-Video-7B-Qwen2's delta avg: 0.00116729736328125
+llava-onevision-qwen2-7b-si's delta avg: 0.00098419189453125
+
+Tensor name: model.layers.11.self_attn.k_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.009765625
+LLaVA-Video-7B-Qwen2's delta avg: 0.00103759765625
+llava-onevision-qwen2-7b-si's delta avg: 0.000888824462890625
+
+Tensor name: model.layers.11.self_attn.v_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0023956298828125
+LLaVA-Video-7B-Qwen2's delta avg: 0.0010528564453125
+llava-onevision-qwen2-7b-si's delta avg: 0.000888824462890625
+
+Tensor name: model.layers.11.self_attn.v_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.000926971435546875
+LLaVA-Video-7B-Qwen2's delta avg: 0.0004405975341796875
+llava-onevision-qwen2-7b-si's delta avg: 0.0003948211669921875
+
+Tensor name: model.layers.11.self_attn.o_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.00250244140625
+LLaVA-Video-7B-Qwen2's delta avg: 0.0009765625
+llava-onevision-qwen2-7b-si's delta avg: 0.000820159912109375
+
+Tensor name: model.layers.11.mlp.gate_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0032501220703125
+LLaVA-Video-7B-Qwen2's delta avg: 0.0011749267578125
+llava-onevision-qwen2-7b-si's delta avg: 0.00098419189453125
+
+Tensor name: model.layers.11.mlp.up_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0029754638671875
+LLaVA-Video-7B-Qwen2's delta avg: 0.00107574462890625
+llava-onevision-qwen2-7b-si's delta avg: 0.0009002685546875
+
+Tensor name: model.layers.11.mlp.down_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.002960205078125
+LLaVA-Video-7B-Qwen2's delta avg: 0.00109100341796875
+llava-onevision-qwen2-7b-si's delta avg: 0.000904083251953125
+
+Tensor name: model.layers.11.input_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.00396728515625
+LLaVA-Video-7B-Qwen2's delta avg: 0.00051116943359375
+llava-onevision-qwen2-7b-si's delta avg: 0.0004024505615234375
+
+Tensor name: model.layers.11.post_attention_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.006805419921875
+LLaVA-Video-7B-Qwen2's delta avg: 0.000518798828125
+llava-onevision-qwen2-7b-si's delta avg: 0.00041961669921875
+
+Tensor name: model.layers.12.self_attn.q_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.00335693359375
+LLaVA-Video-7B-Qwen2's delta avg: 0.001220703125
+llava-onevision-qwen2-7b-si's delta avg: 0.00102996826171875
+
+Tensor name: model.layers.12.self_attn.q_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.0020751953125
+LLaVA-Video-7B-Qwen2's delta avg: 0.000690460205078125
+llava-onevision-qwen2-7b-si's delta avg: 0.000568389892578125
+
+Tensor name: model.layers.12.self_attn.k_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.003143310546875
+LLaVA-Video-7B-Qwen2's delta avg: 0.00119781494140625
+llava-onevision-qwen2-7b-si's delta avg: 0.00101470947265625
+
+Tensor name: model.layers.12.self_attn.k_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.01007080078125
+LLaVA-Video-7B-Qwen2's delta avg: 0.00109100341796875
+llava-onevision-qwen2-7b-si's delta avg: 0.000904083251953125
+
+Tensor name: model.layers.12.self_attn.v_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0023193359375
+LLaVA-Video-7B-Qwen2's delta avg: 0.00102996826171875
+llava-onevision-qwen2-7b-si's delta avg: 0.000865936279296875
+
+Tensor name: model.layers.12.self_attn.v_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.0009613037109375
+LLaVA-Video-7B-Qwen2's delta avg: 0.0004138946533203125
+llava-onevision-qwen2-7b-si's delta avg: 0.0003528594970703125
+
+Tensor name: model.layers.12.self_attn.o_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.002471923828125
+LLaVA-Video-7B-Qwen2's delta avg: 0.0009613037109375
+llava-onevision-qwen2-7b-si's delta avg: 0.000804901123046875
+
+Tensor name: model.layers.12.mlp.gate_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0032958984375
+LLaVA-Video-7B-Qwen2's delta avg: 0.001190185546875
+llava-onevision-qwen2-7b-si's delta avg: 0.00099945068359375
+
+Tensor name: model.layers.12.mlp.up_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.003021240234375
+LLaVA-Video-7B-Qwen2's delta avg: 0.0010986328125
+llava-onevision-qwen2-7b-si's delta avg: 0.00091552734375
+
+Tensor name: model.layers.12.mlp.down_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.00299072265625
+LLaVA-Video-7B-Qwen2's delta avg: 0.00109100341796875
+llava-onevision-qwen2-7b-si's delta avg: 0.00090789794921875
+
+Tensor name: model.layers.12.input_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.00482177734375
+LLaVA-Video-7B-Qwen2's delta avg: 0.0004558563232421875
+llava-onevision-qwen2-7b-si's delta avg: 0.000377655029296875
+
+Tensor name: model.layers.12.post_attention_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.00634765625
+LLaVA-Video-7B-Qwen2's delta avg: 0.0005340576171875
+llava-onevision-qwen2-7b-si's delta avg: 0.00045013427734375
+
+Tensor name: model.layers.13.self_attn.q_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.003326416015625
+LLaVA-Video-7B-Qwen2's delta avg: 0.00124359130859375
+llava-onevision-qwen2-7b-si's delta avg: 0.00104522705078125
+
+Tensor name: model.layers.13.self_attn.q_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.0023651123046875
+LLaVA-Video-7B-Qwen2's delta avg: 0.000690460205078125
+llava-onevision-qwen2-7b-si's delta avg: 0.00058746337890625
+
+Tensor name: model.layers.13.self_attn.k_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0029449462890625
+LLaVA-Video-7B-Qwen2's delta avg: 0.0012054443359375
+llava-onevision-qwen2-7b-si's delta avg: 0.00101470947265625
+
+Tensor name: model.layers.13.self_attn.k_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.01116943359375
+LLaVA-Video-7B-Qwen2's delta avg: 0.00118255615234375
+llava-onevision-qwen2-7b-si's delta avg: 0.00101470947265625
+
+Tensor name: model.layers.13.self_attn.v_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0021514892578125
+LLaVA-Video-7B-Qwen2's delta avg: 0.001007080078125
+llava-onevision-qwen2-7b-si's delta avg: 0.0008544921875
+
+Tensor name: model.layers.13.self_attn.v_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.000823974609375
+LLaVA-Video-7B-Qwen2's delta avg: 0.0003662109375
+llava-onevision-qwen2-7b-si's delta avg: 0.000335693359375
+
+Tensor name: model.layers.13.self_attn.o_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.002349853515625
+LLaVA-Video-7B-Qwen2's delta avg: 0.000946044921875
+llava-onevision-qwen2-7b-si's delta avg: 0.00079345703125
+
+Tensor name: model.layers.13.mlp.gate_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.003326416015625
+LLaVA-Video-7B-Qwen2's delta avg: 0.00119781494140625
+llava-onevision-qwen2-7b-si's delta avg: 0.00099945068359375
+
+Tensor name: model.layers.13.mlp.up_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.00299072265625
+LLaVA-Video-7B-Qwen2's delta avg: 0.0010833740234375
+llava-onevision-qwen2-7b-si's delta avg: 0.000904083251953125
+
+Tensor name: model.layers.13.mlp.down_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0029754638671875
+LLaVA-Video-7B-Qwen2's delta avg: 0.0010833740234375
+llava-onevision-qwen2-7b-si's delta avg: 0.0009002685546875
+
+Tensor name: model.layers.13.input_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.00482177734375
+LLaVA-Video-7B-Qwen2's delta avg: 0.0004405975341796875
+llava-onevision-qwen2-7b-si's delta avg: 0.0003719329833984375
+
+Tensor name: model.layers.13.post_attention_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.006317138671875
+LLaVA-Video-7B-Qwen2's delta avg: 0.000720977783203125
+llava-onevision-qwen2-7b-si's delta avg: 0.00058746337890625
+
+Tensor name: model.layers.14.self_attn.q_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0034637451171875
+LLaVA-Video-7B-Qwen2's delta avg: 0.001220703125
+llava-onevision-qwen2-7b-si's delta avg: 0.00103759765625
+
+Tensor name: model.layers.14.self_attn.q_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.002288818359375
+LLaVA-Video-7B-Qwen2's delta avg: 0.0007171630859375
+llava-onevision-qwen2-7b-si's delta avg: 0.0006103515625
+
+Tensor name: model.layers.14.self_attn.k_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0032501220703125
+LLaVA-Video-7B-Qwen2's delta avg: 0.0012054443359375
+llava-onevision-qwen2-7b-si's delta avg: 0.0010223388671875
+
+Tensor name: model.layers.14.self_attn.k_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.0120849609375
+LLaVA-Video-7B-Qwen2's delta avg: 0.001129150390625
+llava-onevision-qwen2-7b-si's delta avg: 0.000865936279296875
+
+Tensor name: model.layers.14.self_attn.v_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0023345947265625
+LLaVA-Video-7B-Qwen2's delta avg: 0.00104522705078125
+llava-onevision-qwen2-7b-si's delta avg: 0.000881195068359375
+
+Tensor name: model.layers.14.self_attn.v_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.0012359619140625
+LLaVA-Video-7B-Qwen2's delta avg: 0.0005645751953125
+llava-onevision-qwen2-7b-si's delta avg: 0.0004749298095703125
+
+Tensor name: model.layers.14.self_attn.o_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.00250244140625
+LLaVA-Video-7B-Qwen2's delta avg: 0.000957489013671875
+llava-onevision-qwen2-7b-si's delta avg: 0.00080108642578125
+
+Tensor name: model.layers.14.mlp.gate_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0033416748046875
+LLaVA-Video-7B-Qwen2's delta avg: 0.0012054443359375
+llava-onevision-qwen2-7b-si's delta avg: 0.00101470947265625
+
+Tensor name: model.layers.14.mlp.up_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0030364990234375
+LLaVA-Video-7B-Qwen2's delta avg: 0.0010986328125
+llava-onevision-qwen2-7b-si's delta avg: 0.000911712646484375
+
+Tensor name: model.layers.14.mlp.down_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0030059814453125
+LLaVA-Video-7B-Qwen2's delta avg: 0.00109100341796875
+llava-onevision-qwen2-7b-si's delta avg: 0.000904083251953125
+
+Tensor name: model.layers.14.input_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.005157470703125
+LLaVA-Video-7B-Qwen2's delta avg: 0.0004367828369140625
+llava-onevision-qwen2-7b-si's delta avg: 0.0003681182861328125
+
+Tensor name: model.layers.14.post_attention_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.006195068359375
+LLaVA-Video-7B-Qwen2's delta avg: 0.000637054443359375
+llava-onevision-qwen2-7b-si's delta avg: 0.000537872314453125
+
+Tensor name: model.layers.15.self_attn.q_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.003326416015625
+LLaVA-Video-7B-Qwen2's delta avg: 0.001220703125
+llava-onevision-qwen2-7b-si's delta avg: 0.00102996826171875
+
+Tensor name: model.layers.15.self_attn.q_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.002105712890625
+LLaVA-Video-7B-Qwen2's delta avg: 0.0005645751953125
+llava-onevision-qwen2-7b-si's delta avg: 0.000476837158203125
+
+Tensor name: model.layers.15.self_attn.k_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.003021240234375
+LLaVA-Video-7B-Qwen2's delta avg: 0.001190185546875
+llava-onevision-qwen2-7b-si's delta avg: 0.001007080078125
+
+Tensor name: model.layers.15.self_attn.k_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.00885009765625
+LLaVA-Video-7B-Qwen2's delta avg: 0.0010528564453125
+llava-onevision-qwen2-7b-si's delta avg: 0.000823974609375
+
+Tensor name: model.layers.15.self_attn.v_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0023193359375
+LLaVA-Video-7B-Qwen2's delta avg: 0.00101470947265625
+llava-onevision-qwen2-7b-si's delta avg: 0.000858306884765625
+
+Tensor name: model.layers.15.self_attn.v_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.00098419189453125
+LLaVA-Video-7B-Qwen2's delta avg: 0.0003910064697265625
+llava-onevision-qwen2-7b-si's delta avg: 0.0003376007080078125
+
+Tensor name: model.layers.15.self_attn.o_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.00244140625
+LLaVA-Video-7B-Qwen2's delta avg: 0.00096893310546875
+llava-onevision-qwen2-7b-si's delta avg: 0.000812530517578125
+
+Tensor name: model.layers.15.mlp.gate_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0033416748046875
+LLaVA-Video-7B-Qwen2's delta avg: 0.00121307373046875
+llava-onevision-qwen2-7b-si's delta avg: 0.001007080078125
+
+Tensor name: model.layers.15.mlp.up_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0030975341796875
+LLaVA-Video-7B-Qwen2's delta avg: 0.0011138916015625
+llava-onevision-qwen2-7b-si's delta avg: 0.00092315673828125
+
+Tensor name: model.layers.15.mlp.down_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0030517578125
+LLaVA-Video-7B-Qwen2's delta avg: 0.00110626220703125
+llava-onevision-qwen2-7b-si's delta avg: 0.000911712646484375
+
+Tensor name: model.layers.15.input_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.00506591796875
+LLaVA-Video-7B-Qwen2's delta avg: 0.00057220458984375
+llava-onevision-qwen2-7b-si's delta avg: 0.000484466552734375
+
+Tensor name: model.layers.15.post_attention_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.006439208984375
+LLaVA-Video-7B-Qwen2's delta avg: 0.000904083251953125
+llava-onevision-qwen2-7b-si's delta avg: 0.000827789306640625
+
+Tensor name: model.layers.16.self_attn.q_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.003448486328125
+LLaVA-Video-7B-Qwen2's delta avg: 0.001251220703125
+llava-onevision-qwen2-7b-si's delta avg: 0.0010528564453125
+
+Tensor name: model.layers.16.self_attn.q_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.0023040771484375
+LLaVA-Video-7B-Qwen2's delta avg: 0.0006866455078125
+llava-onevision-qwen2-7b-si's delta avg: 0.00057220458984375
+
+Tensor name: model.layers.16.self_attn.k_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0031890869140625
+LLaVA-Video-7B-Qwen2's delta avg: 0.00121307373046875
+llava-onevision-qwen2-7b-si's delta avg: 0.00102996826171875
+
+Tensor name: model.layers.16.self_attn.k_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.01202392578125
+LLaVA-Video-7B-Qwen2's delta avg: 0.000896453857421875
+llava-onevision-qwen2-7b-si's delta avg: 0.00072479248046875
+
+Tensor name: model.layers.16.self_attn.v_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0023651123046875
+LLaVA-Video-7B-Qwen2's delta avg: 0.00102996826171875
+llava-onevision-qwen2-7b-si's delta avg: 0.000865936279296875
+
+Tensor name: model.layers.16.self_attn.v_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.001129150390625
+LLaVA-Video-7B-Qwen2's delta avg: 0.000453948974609375
+llava-onevision-qwen2-7b-si's delta avg: 0.0003833770751953125
+
+Tensor name: model.layers.16.self_attn.o_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.002471923828125
+LLaVA-Video-7B-Qwen2's delta avg: 0.0009765625
+llava-onevision-qwen2-7b-si's delta avg: 0.000823974609375
+
+Tensor name: model.layers.16.mlp.gate_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0033721923828125
+LLaVA-Video-7B-Qwen2's delta avg: 0.00121307373046875
+llava-onevision-qwen2-7b-si's delta avg: 0.00101470947265625
+
+Tensor name: model.layers.16.mlp.up_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.003143310546875
+LLaVA-Video-7B-Qwen2's delta avg: 0.00112152099609375
+llava-onevision-qwen2-7b-si's delta avg: 0.0009307861328125
+
+Tensor name: model.layers.16.mlp.down_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0031280517578125
+LLaVA-Video-7B-Qwen2's delta avg: 0.00112152099609375
+llava-onevision-qwen2-7b-si's delta avg: 0.00092315673828125
+
+Tensor name: model.layers.16.input_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.004608154296875
+LLaVA-Video-7B-Qwen2's delta avg: 0.0003814697265625
+llava-onevision-qwen2-7b-si's delta avg: 0.0003070831298828125
+
+Tensor name: model.layers.16.post_attention_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.007415771484375
+LLaVA-Video-7B-Qwen2's delta avg: 0.00095367431640625
+llava-onevision-qwen2-7b-si's delta avg: 0.00084686279296875
+
+Tensor name: model.layers.17.self_attn.q_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0034332275390625
+LLaVA-Video-7B-Qwen2's delta avg: 0.00122833251953125
+llava-onevision-qwen2-7b-si's delta avg: 0.00103759765625
+
+Tensor name: model.layers.17.self_attn.q_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.0021820068359375
+LLaVA-Video-7B-Qwen2's delta avg: 0.000614166259765625
+llava-onevision-qwen2-7b-si's delta avg: 0.000518798828125
+
+Tensor name: model.layers.17.self_attn.k_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.00299072265625
+LLaVA-Video-7B-Qwen2's delta avg: 0.00115966796875
+llava-onevision-qwen2-7b-si's delta avg: 0.0009765625
+
+Tensor name: model.layers.17.self_attn.k_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.01177978515625
+LLaVA-Video-7B-Qwen2's delta avg: 0.00078582763671875
+llava-onevision-qwen2-7b-si's delta avg: 0.000667572021484375
+
+Tensor name: model.layers.17.self_attn.v_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0023956298828125
+LLaVA-Video-7B-Qwen2's delta avg: 0.00102996826171875
+llava-onevision-qwen2-7b-si's delta avg: 0.000865936279296875
+
+Tensor name: model.layers.17.self_attn.v_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.0009002685546875
+LLaVA-Video-7B-Qwen2's delta avg: 0.0003986358642578125
+llava-onevision-qwen2-7b-si's delta avg: 0.00034332275390625
+
+Tensor name: model.layers.17.self_attn.o_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0026397705078125
+LLaVA-Video-7B-Qwen2's delta avg: 0.00102996826171875
+llava-onevision-qwen2-7b-si's delta avg: 0.000865936279296875
+
+Tensor name: model.layers.17.mlp.gate_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.003387451171875
+LLaVA-Video-7B-Qwen2's delta avg: 0.001220703125
+llava-onevision-qwen2-7b-si's delta avg: 0.0010223388671875
+
+Tensor name: model.layers.17.mlp.up_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.003143310546875
+LLaVA-Video-7B-Qwen2's delta avg: 0.00112152099609375
+llava-onevision-qwen2-7b-si's delta avg: 0.0009307861328125
+
+Tensor name: model.layers.17.mlp.down_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0031280517578125
+LLaVA-Video-7B-Qwen2's delta avg: 0.001129150390625
+llava-onevision-qwen2-7b-si's delta avg: 0.000934600830078125
+
+Tensor name: model.layers.17.input_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.005645751953125
+LLaVA-Video-7B-Qwen2's delta avg: 0.0003662109375
+llava-onevision-qwen2-7b-si's delta avg: 0.00030517578125
+
+Tensor name: model.layers.17.post_attention_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0078125
+LLaVA-Video-7B-Qwen2's delta avg: 0.00087738037109375
+llava-onevision-qwen2-7b-si's delta avg: 0.000804901123046875
+
+Tensor name: model.layers.18.self_attn.q_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.003265380859375
+LLaVA-Video-7B-Qwen2's delta avg: 0.0012054443359375
+llava-onevision-qwen2-7b-si's delta avg: 0.00101470947265625
+
+Tensor name: model.layers.18.self_attn.q_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.0023193359375
+LLaVA-Video-7B-Qwen2's delta avg: 0.000583648681640625
+llava-onevision-qwen2-7b-si's delta avg: 0.000499725341796875
+
+Tensor name: model.layers.18.self_attn.k_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.002655029296875
+LLaVA-Video-7B-Qwen2's delta avg: 0.0011444091796875
+llava-onevision-qwen2-7b-si's delta avg: 0.000965118408203125
+
+Tensor name: model.layers.18.self_attn.k_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.01239013671875
+LLaVA-Video-7B-Qwen2's delta avg: 0.0009918212890625
+llava-onevision-qwen2-7b-si's delta avg: 0.00075531005859375
+
+Tensor name: model.layers.18.self_attn.v_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0020294189453125
+LLaVA-Video-7B-Qwen2's delta avg: 0.00099945068359375
+llava-onevision-qwen2-7b-si's delta avg: 0.0008392333984375
+
+Tensor name: model.layers.18.self_attn.v_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.000820159912109375
+LLaVA-Video-7B-Qwen2's delta avg: 0.00035858154296875
+llava-onevision-qwen2-7b-si's delta avg: 0.0003204345703125
+
+Tensor name: model.layers.18.self_attn.o_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.002349853515625
+LLaVA-Video-7B-Qwen2's delta avg: 0.000946044921875
+llava-onevision-qwen2-7b-si's delta avg: 0.000797271728515625
+
+Tensor name: model.layers.18.mlp.gate_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0033721923828125
+LLaVA-Video-7B-Qwen2's delta avg: 0.00122833251953125
+llava-onevision-qwen2-7b-si's delta avg: 0.0010223388671875
+
+Tensor name: model.layers.18.mlp.up_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0030975341796875
+LLaVA-Video-7B-Qwen2's delta avg: 0.00112152099609375
+llava-onevision-qwen2-7b-si's delta avg: 0.0009307861328125
+
+Tensor name: model.layers.18.mlp.down_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0030059814453125
+LLaVA-Video-7B-Qwen2's delta avg: 0.0010986328125
+llava-onevision-qwen2-7b-si's delta avg: 0.00090789794921875
+
+Tensor name: model.layers.18.input_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.004180908203125
+LLaVA-Video-7B-Qwen2's delta avg: 0.00034332275390625
+llava-onevision-qwen2-7b-si's delta avg: 0.000286102294921875
+
+Tensor name: model.layers.18.post_attention_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.006195068359375
+LLaVA-Video-7B-Qwen2's delta avg: 0.000560760498046875
+llava-onevision-qwen2-7b-si's delta avg: 0.000499725341796875
+
+Tensor name: model.layers.19.self_attn.q_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.003387451171875
+LLaVA-Video-7B-Qwen2's delta avg: 0.0012359619140625
+llava-onevision-qwen2-7b-si's delta avg: 0.00103759765625
+
+Tensor name: model.layers.19.self_attn.q_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.00225830078125
+LLaVA-Video-7B-Qwen2's delta avg: 0.00061798095703125
+llava-onevision-qwen2-7b-si's delta avg: 0.0005035400390625
+
+Tensor name: model.layers.19.self_attn.k_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0029144287109375
+LLaVA-Video-7B-Qwen2's delta avg: 0.00116729736328125
+llava-onevision-qwen2-7b-si's delta avg: 0.00098419189453125
+
+Tensor name: model.layers.19.self_attn.k_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.0167236328125
+LLaVA-Video-7B-Qwen2's delta avg: 0.000934600830078125
+llava-onevision-qwen2-7b-si's delta avg: 0.000759124755859375
+
+Tensor name: model.layers.19.self_attn.v_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0018463134765625
+LLaVA-Video-7B-Qwen2's delta avg: 0.00098419189453125
+llava-onevision-qwen2-7b-si's delta avg: 0.000823974609375
+
+Tensor name: model.layers.19.self_attn.v_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.0010986328125
+LLaVA-Video-7B-Qwen2's delta avg: 0.0003871917724609375
+llava-onevision-qwen2-7b-si's delta avg: 0.0003376007080078125
+
+Tensor name: model.layers.19.self_attn.o_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.002166748046875
+LLaVA-Video-7B-Qwen2's delta avg: 0.0009307861328125
+llava-onevision-qwen2-7b-si's delta avg: 0.00078582763671875
+
+Tensor name: model.layers.19.mlp.gate_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.003326416015625
+LLaVA-Video-7B-Qwen2's delta avg: 0.00122833251953125
+llava-onevision-qwen2-7b-si's delta avg: 0.00102996826171875
+
+Tensor name: model.layers.19.mlp.up_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0030517578125
+LLaVA-Video-7B-Qwen2's delta avg: 0.0011138916015625
+llava-onevision-qwen2-7b-si's delta avg: 0.000926971435546875
+
+Tensor name: model.layers.19.mlp.down_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0029754638671875
+LLaVA-Video-7B-Qwen2's delta avg: 0.00109100341796875
+llava-onevision-qwen2-7b-si's delta avg: 0.00090789794921875
+
+Tensor name: model.layers.19.input_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.003387451171875
+LLaVA-Video-7B-Qwen2's delta avg: 0.0003070831298828125
+llava-onevision-qwen2-7b-si's delta avg: 0.000274658203125
+
+Tensor name: model.layers.19.post_attention_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.00665283203125
+LLaVA-Video-7B-Qwen2's delta avg: 0.0004138946533203125
+llava-onevision-qwen2-7b-si's delta avg: 0.000370025634765625
+
+Tensor name: model.layers.20.self_attn.q_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.00335693359375
+LLaVA-Video-7B-Qwen2's delta avg: 0.00122833251953125
+llava-onevision-qwen2-7b-si's delta avg: 0.00103759765625
+
+Tensor name: model.layers.20.self_attn.q_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.0023651123046875
+LLaVA-Video-7B-Qwen2's delta avg: 0.000507354736328125
+llava-onevision-qwen2-7b-si's delta avg: 0.0004253387451171875
+
+Tensor name: model.layers.20.self_attn.k_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0029296875
+LLaVA-Video-7B-Qwen2's delta avg: 0.00115966796875
+llava-onevision-qwen2-7b-si's delta avg: 0.00098419189453125
+
+Tensor name: model.layers.20.self_attn.k_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.01055908203125
+LLaVA-Video-7B-Qwen2's delta avg: 0.000911712646484375
+llava-onevision-qwen2-7b-si's delta avg: 0.00072479248046875
+
+Tensor name: model.layers.20.self_attn.v_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0021820068359375
+LLaVA-Video-7B-Qwen2's delta avg: 0.00101470947265625
+llava-onevision-qwen2-7b-si's delta avg: 0.000858306884765625
+
+Tensor name: model.layers.20.self_attn.v_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.0009002685546875
+LLaVA-Video-7B-Qwen2's delta avg: 0.000396728515625
+llava-onevision-qwen2-7b-si's delta avg: 0.000339508056640625
+
+Tensor name: model.layers.20.self_attn.o_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.002471923828125
+LLaVA-Video-7B-Qwen2's delta avg: 0.0009918212890625
+llava-onevision-qwen2-7b-si's delta avg: 0.000835418701171875
+
+Tensor name: model.layers.20.mlp.gate_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0033111572265625
+LLaVA-Video-7B-Qwen2's delta avg: 0.00122833251953125
+llava-onevision-qwen2-7b-si's delta avg: 0.00102996826171875
+
+Tensor name: model.layers.20.mlp.up_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0030670166015625
+LLaVA-Video-7B-Qwen2's delta avg: 0.00112152099609375
+llava-onevision-qwen2-7b-si's delta avg: 0.000934600830078125
+
+Tensor name: model.layers.20.mlp.down_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0029754638671875
+LLaVA-Video-7B-Qwen2's delta avg: 0.0010986328125
+llava-onevision-qwen2-7b-si's delta avg: 0.000911712646484375
+
+Tensor name: model.layers.20.input_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.004608154296875
+LLaVA-Video-7B-Qwen2's delta avg: 0.00021076202392578125
+llava-onevision-qwen2-7b-si's delta avg: 0.00017833709716796875
+
+Tensor name: model.layers.20.post_attention_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.00738525390625
+LLaVA-Video-7B-Qwen2's delta avg: 0.0002460479736328125
+llava-onevision-qwen2-7b-si's delta avg: 0.00022029876708984375
+
+Tensor name: model.layers.21.self_attn.q_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.00341796875
+LLaVA-Video-7B-Qwen2's delta avg: 0.00125885009765625
+llava-onevision-qwen2-7b-si's delta avg: 0.001068115234375
+
+Tensor name: model.layers.21.self_attn.q_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.00244140625
+LLaVA-Video-7B-Qwen2's delta avg: 0.000553131103515625
+llava-onevision-qwen2-7b-si's delta avg: 0.0004730224609375
+
+Tensor name: model.layers.21.self_attn.k_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.002960205078125
+LLaVA-Video-7B-Qwen2's delta avg: 0.00116729736328125
+llava-onevision-qwen2-7b-si's delta avg: 0.0009918212890625
+
+Tensor name: model.layers.21.self_attn.k_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.01171875
+LLaVA-Video-7B-Qwen2's delta avg: 0.0009918212890625
+llava-onevision-qwen2-7b-si's delta avg: 0.000827789306640625
+
+Tensor name: model.layers.21.self_attn.v_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.002227783203125
+LLaVA-Video-7B-Qwen2's delta avg: 0.00099945068359375
+llava-onevision-qwen2-7b-si's delta avg: 0.000843048095703125
+
+Tensor name: model.layers.21.self_attn.v_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.0009918212890625
+LLaVA-Video-7B-Qwen2's delta avg: 0.0004291534423828125
+llava-onevision-qwen2-7b-si's delta avg: 0.0003662109375
+
+Tensor name: model.layers.21.self_attn.o_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.002532958984375
+LLaVA-Video-7B-Qwen2's delta avg: 0.00099945068359375
+llava-onevision-qwen2-7b-si's delta avg: 0.000850677490234375
+
+Tensor name: model.layers.21.mlp.gate_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0033111572265625
+LLaVA-Video-7B-Qwen2's delta avg: 0.0012359619140625
+llava-onevision-qwen2-7b-si's delta avg: 0.00103759765625
+
+Tensor name: model.layers.21.mlp.up_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.003021240234375
+LLaVA-Video-7B-Qwen2's delta avg: 0.0011138916015625
+llava-onevision-qwen2-7b-si's delta avg: 0.000926971435546875
+
+Tensor name: model.layers.21.mlp.down_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0029449462890625
+LLaVA-Video-7B-Qwen2's delta avg: 0.00109100341796875
+llava-onevision-qwen2-7b-si's delta avg: 0.00090789794921875
+
+Tensor name: model.layers.21.input_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.00555419921875
+LLaVA-Video-7B-Qwen2's delta avg: 0.00029754638671875
+llava-onevision-qwen2-7b-si's delta avg: 0.0002689361572265625
+
+Tensor name: model.layers.21.post_attention_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0084228515625
+LLaVA-Video-7B-Qwen2's delta avg: 0.00015163421630859375
+llava-onevision-qwen2-7b-si's delta avg: 0.0001277923583984375
+
+Tensor name: model.layers.22.self_attn.q_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0035552978515625
+LLaVA-Video-7B-Qwen2's delta avg: 0.00128936767578125
+llava-onevision-qwen2-7b-si's delta avg: 0.0010986328125
+
+Tensor name: model.layers.22.self_attn.q_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.00225830078125
+LLaVA-Video-7B-Qwen2's delta avg: 0.000598907470703125
+llava-onevision-qwen2-7b-si's delta avg: 0.000507354736328125
+
+Tensor name: model.layers.22.self_attn.k_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0030059814453125
+LLaVA-Video-7B-Qwen2's delta avg: 0.0011749267578125
+llava-onevision-qwen2-7b-si's delta avg: 0.00099945068359375
+
+Tensor name: model.layers.22.self_attn.k_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.01031494140625
+LLaVA-Video-7B-Qwen2's delta avg: 0.0009918212890625
+llava-onevision-qwen2-7b-si's delta avg: 0.000820159912109375
+
+Tensor name: model.layers.22.self_attn.v_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0026092529296875
+LLaVA-Video-7B-Qwen2's delta avg: 0.00106048583984375
+llava-onevision-qwen2-7b-si's delta avg: 0.0009002685546875
+
+Tensor name: model.layers.22.self_attn.v_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.000911712646484375
+LLaVA-Video-7B-Qwen2's delta avg: 0.0003528594970703125
+llava-onevision-qwen2-7b-si's delta avg: 0.0003032684326171875
+
+Tensor name: model.layers.22.self_attn.o_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.003021240234375
+LLaVA-Video-7B-Qwen2's delta avg: 0.00116729736328125
+llava-onevision-qwen2-7b-si's delta avg: 0.001007080078125
+
+Tensor name: model.layers.22.mlp.gate_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0033416748046875
+LLaVA-Video-7B-Qwen2's delta avg: 0.0012359619140625
+llava-onevision-qwen2-7b-si's delta avg: 0.00104522705078125
+
+Tensor name: model.layers.22.mlp.up_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0030517578125
+LLaVA-Video-7B-Qwen2's delta avg: 0.0011138916015625
+llava-onevision-qwen2-7b-si's delta avg: 0.000934600830078125
+
+Tensor name: model.layers.22.mlp.down_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0029449462890625
+LLaVA-Video-7B-Qwen2's delta avg: 0.00109100341796875
+llava-onevision-qwen2-7b-si's delta avg: 0.00091552734375
+
+Tensor name: model.layers.22.input_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0068359375
+LLaVA-Video-7B-Qwen2's delta avg: 0.000274658203125
+llava-onevision-qwen2-7b-si's delta avg: 0.0002460479736328125
+
+Tensor name: model.layers.22.post_attention_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.01068115234375
+LLaVA-Video-7B-Qwen2's delta avg: 0.0001964569091796875
+llava-onevision-qwen2-7b-si's delta avg: 0.0001888275146484375
+
+Tensor name: model.layers.23.self_attn.q_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.003570556640625
+LLaVA-Video-7B-Qwen2's delta avg: 0.00128936767578125
+llava-onevision-qwen2-7b-si's delta avg: 0.00109100341796875
+
+Tensor name: model.layers.23.self_attn.q_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.0021514892578125
+LLaVA-Video-7B-Qwen2's delta avg: 0.000598907470703125
+llava-onevision-qwen2-7b-si's delta avg: 0.00052642822265625
+
+Tensor name: model.layers.23.self_attn.k_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0031280517578125
+LLaVA-Video-7B-Qwen2's delta avg: 0.00119781494140625
+llava-onevision-qwen2-7b-si's delta avg: 0.00101470947265625
+
+Tensor name: model.layers.23.self_attn.k_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.01080322265625
+LLaVA-Video-7B-Qwen2's delta avg: 0.0009918212890625
+llava-onevision-qwen2-7b-si's delta avg: 0.0008544921875
+
+Tensor name: model.layers.23.self_attn.v_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.00262451171875
+LLaVA-Video-7B-Qwen2's delta avg: 0.00103759765625
+llava-onevision-qwen2-7b-si's delta avg: 0.000873565673828125
+
+Tensor name: model.layers.23.self_attn.v_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.0007781982421875
+LLaVA-Video-7B-Qwen2's delta avg: 0.0003414154052734375
+llava-onevision-qwen2-7b-si's delta avg: 0.00031280517578125
+
+Tensor name: model.layers.23.self_attn.o_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0028839111328125
+LLaVA-Video-7B-Qwen2's delta avg: 0.0011749267578125
+llava-onevision-qwen2-7b-si's delta avg: 0.0010223388671875
+
+Tensor name: model.layers.23.mlp.gate_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.003326416015625
+LLaVA-Video-7B-Qwen2's delta avg: 0.0012359619140625
+llava-onevision-qwen2-7b-si's delta avg: 0.0010528564453125
+
+Tensor name: model.layers.23.mlp.up_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0030364990234375
+LLaVA-Video-7B-Qwen2's delta avg: 0.00110626220703125
+llava-onevision-qwen2-7b-si's delta avg: 0.0009307861328125
+
+Tensor name: model.layers.23.mlp.down_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.002960205078125
+LLaVA-Video-7B-Qwen2's delta avg: 0.00109100341796875
+llava-onevision-qwen2-7b-si's delta avg: 0.000919342041015625
+
+Tensor name: model.layers.23.input_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.004974365234375
+LLaVA-Video-7B-Qwen2's delta avg: 0.000354766845703125
+llava-onevision-qwen2-7b-si's delta avg: 0.0003376007080078125
+
+Tensor name: model.layers.23.post_attention_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.011962890625
+LLaVA-Video-7B-Qwen2's delta avg: 7.390975952148438e-05
+llava-onevision-qwen2-7b-si's delta avg: 6.341934204101562e-05
+
+Tensor name: model.layers.24.self_attn.q_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0035858154296875
+LLaVA-Video-7B-Qwen2's delta avg: 0.00125885009765625
+llava-onevision-qwen2-7b-si's delta avg: 0.001068115234375
+
+Tensor name: model.layers.24.self_attn.q_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.00173187255859375
+LLaVA-Video-7B-Qwen2's delta avg: 0.000476837158203125
+llava-onevision-qwen2-7b-si's delta avg: 0.0004119873046875
+
+Tensor name: model.layers.24.self_attn.k_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0030364990234375
+LLaVA-Video-7B-Qwen2's delta avg: 0.0011749267578125
+llava-onevision-qwen2-7b-si's delta avg: 0.00099945068359375
+
+Tensor name: model.layers.24.self_attn.k_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.0089111328125
+LLaVA-Video-7B-Qwen2's delta avg: 0.000850677490234375
+llava-onevision-qwen2-7b-si's delta avg: 0.000690460205078125
+
+Tensor name: model.layers.24.self_attn.v_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.00286865234375
+LLaVA-Video-7B-Qwen2's delta avg: 0.00110626220703125
+llava-onevision-qwen2-7b-si's delta avg: 0.00093841552734375
+
+Tensor name: model.layers.24.self_attn.v_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.000823974609375
+LLaVA-Video-7B-Qwen2's delta avg: 0.0003604888916015625
+llava-onevision-qwen2-7b-si's delta avg: 0.0003204345703125
+
+Tensor name: model.layers.24.self_attn.o_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0030517578125
+LLaVA-Video-7B-Qwen2's delta avg: 0.00109100341796875
+llava-onevision-qwen2-7b-si's delta avg: 0.00092315673828125
+
+Tensor name: model.layers.24.mlp.gate_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.003265380859375
+LLaVA-Video-7B-Qwen2's delta avg: 0.0012359619140625
+llava-onevision-qwen2-7b-si's delta avg: 0.0010528564453125
+
+Tensor name: model.layers.24.mlp.up_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.00311279296875
+LLaVA-Video-7B-Qwen2's delta avg: 0.0011138916015625
+llava-onevision-qwen2-7b-si's delta avg: 0.000942230224609375
+
+Tensor name: model.layers.24.mlp.down_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.003082275390625
+LLaVA-Video-7B-Qwen2's delta avg: 0.00110626220703125
+llava-onevision-qwen2-7b-si's delta avg: 0.00093841552734375
+
+Tensor name: model.layers.24.input_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.004730224609375
+LLaVA-Video-7B-Qwen2's delta avg: 0.0002460479736328125
+llava-onevision-qwen2-7b-si's delta avg: 0.00022411346435546875
+
+Tensor name: model.layers.24.post_attention_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.01214599609375
+LLaVA-Video-7B-Qwen2's delta avg: 3.647804260253906e-05
+llava-onevision-qwen2-7b-si's delta avg: 4.029273986816406e-05
+
+Tensor name: model.layers.25.self_attn.q_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.003509521484375
+LLaVA-Video-7B-Qwen2's delta avg: 0.00125885009765625
+llava-onevision-qwen2-7b-si's delta avg: 0.001068115234375
+
+Tensor name: model.layers.25.self_attn.q_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.0019378662109375
+LLaVA-Video-7B-Qwen2's delta avg: 0.00054168701171875
+llava-onevision-qwen2-7b-si's delta avg: 0.0004596710205078125
+
+Tensor name: model.layers.25.self_attn.k_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0030364990234375
+LLaVA-Video-7B-Qwen2's delta avg: 0.00116729736328125
+llava-onevision-qwen2-7b-si's delta avg: 0.0009918212890625
+
+Tensor name: model.layers.25.self_attn.k_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.010498046875
+LLaVA-Video-7B-Qwen2's delta avg: 0.00103759765625
+llava-onevision-qwen2-7b-si's delta avg: 0.000843048095703125
+
+Tensor name: model.layers.25.self_attn.v_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0028533935546875
+LLaVA-Video-7B-Qwen2's delta avg: 0.0011138916015625
+llava-onevision-qwen2-7b-si's delta avg: 0.000949859619140625
+
+Tensor name: model.layers.25.self_attn.v_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.000865936279296875
+LLaVA-Video-7B-Qwen2's delta avg: 0.000335693359375
+llava-onevision-qwen2-7b-si's delta avg: 0.000316619873046875
+
+Tensor name: model.layers.25.self_attn.o_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.003082275390625
+LLaVA-Video-7B-Qwen2's delta avg: 0.00115203857421875
+llava-onevision-qwen2-7b-si's delta avg: 0.0009918212890625
+
+Tensor name: model.layers.25.mlp.gate_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.003265380859375
+LLaVA-Video-7B-Qwen2's delta avg: 0.0012359619140625
+llava-onevision-qwen2-7b-si's delta avg: 0.0010528564453125
+
+Tensor name: model.layers.25.mlp.up_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0031890869140625
+LLaVA-Video-7B-Qwen2's delta avg: 0.001129150390625
+llava-onevision-qwen2-7b-si's delta avg: 0.0009613037109375
+
+Tensor name: model.layers.25.mlp.down_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.003204345703125
+LLaVA-Video-7B-Qwen2's delta avg: 0.00112152099609375
+llava-onevision-qwen2-7b-si's delta avg: 0.000949859619140625
+
+Tensor name: model.layers.25.input_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.005859375
+LLaVA-Video-7B-Qwen2's delta avg: 0.0003757476806640625
+llava-onevision-qwen2-7b-si's delta avg: 0.0003509521484375
+
+Tensor name: model.layers.25.post_attention_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0135498046875
+LLaVA-Video-7B-Qwen2's delta avg: 2.3245811462402344e-05
+llava-onevision-qwen2-7b-si's delta avg: 2.110004425048828e-05
+
+Tensor name: model.layers.26.self_attn.q_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0033721923828125
+LLaVA-Video-7B-Qwen2's delta avg: 0.00125885009765625
+llava-onevision-qwen2-7b-si's delta avg: 0.00107574462890625
+
+Tensor name: model.layers.26.self_attn.q_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.00152587890625
+LLaVA-Video-7B-Qwen2's delta avg: 0.000568389892578125
+llava-onevision-qwen2-7b-si's delta avg: 0.00048065185546875
+
+Tensor name: model.layers.26.self_attn.k_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.002838134765625
+LLaVA-Video-7B-Qwen2's delta avg: 0.00118255615234375
+llava-onevision-qwen2-7b-si's delta avg: 0.001007080078125
+
+Tensor name: model.layers.26.self_attn.k_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.0106201171875
+LLaVA-Video-7B-Qwen2's delta avg: 0.000946044921875
+llava-onevision-qwen2-7b-si's delta avg: 0.0007781982421875
+
+Tensor name: model.layers.26.self_attn.v_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0032501220703125
+LLaVA-Video-7B-Qwen2's delta avg: 0.00115966796875
+llava-onevision-qwen2-7b-si's delta avg: 0.0009765625
+
+Tensor name: model.layers.26.self_attn.v_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.00099945068359375
+LLaVA-Video-7B-Qwen2's delta avg: 0.0002346038818359375
+llava-onevision-qwen2-7b-si's delta avg: 0.0002193450927734375
+
+Tensor name: model.layers.26.self_attn.o_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.003173828125
+LLaVA-Video-7B-Qwen2's delta avg: 0.00121307373046875
+llava-onevision-qwen2-7b-si's delta avg: 0.0010528564453125
+
+Tensor name: model.layers.26.mlp.gate_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0033721923828125
+LLaVA-Video-7B-Qwen2's delta avg: 0.001251220703125
+llava-onevision-qwen2-7b-si's delta avg: 0.00106048583984375
+
+Tensor name: model.layers.26.mlp.up_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0032958984375
+LLaVA-Video-7B-Qwen2's delta avg: 0.0011444091796875
+llava-onevision-qwen2-7b-si's delta avg: 0.000972747802734375
+
+Tensor name: model.layers.26.mlp.down_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.003265380859375
+LLaVA-Video-7B-Qwen2's delta avg: 0.0011138916015625
+llava-onevision-qwen2-7b-si's delta avg: 0.000942230224609375
+
+Tensor name: model.layers.26.input_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.006103515625
+LLaVA-Video-7B-Qwen2's delta avg: 0.000316619873046875
+llava-onevision-qwen2-7b-si's delta avg: 0.000274658203125
+
+Tensor name: model.layers.26.post_attention_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0123291015625
+LLaVA-Video-7B-Qwen2's delta avg: 7.092952728271484e-06
+llava-onevision-qwen2-7b-si's delta avg: 6.020069122314453e-06
+
+Tensor name: model.layers.27.self_attn.q_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0033721923828125
+LLaVA-Video-7B-Qwen2's delta avg: 0.0012359619140625
+llava-onevision-qwen2-7b-si's delta avg: 0.00106048583984375
+
+Tensor name: model.layers.27.self_attn.q_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.000949859619140625
+LLaVA-Video-7B-Qwen2's delta avg: 0.0003108978271484375
+llava-onevision-qwen2-7b-si's delta avg: 0.000286102294921875
+
+Tensor name: model.layers.27.self_attn.k_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.00286865234375
+LLaVA-Video-7B-Qwen2's delta avg: 0.00115966796875
+llava-onevision-qwen2-7b-si's delta avg: 0.0009918212890625
+
+Tensor name: model.layers.27.self_attn.k_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.01361083984375
+LLaVA-Video-7B-Qwen2's delta avg: 0.000732421875
+llava-onevision-qwen2-7b-si's delta avg: 0.00064849853515625
+
+Tensor name: model.layers.27.self_attn.v_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0031585693359375
+LLaVA-Video-7B-Qwen2's delta avg: 0.0010528564453125
+llava-onevision-qwen2-7b-si's delta avg: 0.0009002685546875
+
+Tensor name: model.layers.27.self_attn.v_proj.bias
+Qwen2-VL-7B-Instruct's delta avg: 0.0004673004150390625
+LLaVA-Video-7B-Qwen2's delta avg: 6.866455078125e-05
+llava-onevision-qwen2-7b-si's delta avg: 5.91278076171875e-05
+
+Tensor name: model.layers.27.self_attn.o_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0028839111328125
+LLaVA-Video-7B-Qwen2's delta avg: 0.00119781494140625
+llava-onevision-qwen2-7b-si's delta avg: 0.001068115234375
+
+Tensor name: model.layers.27.mlp.gate_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0032196044921875
+LLaVA-Video-7B-Qwen2's delta avg: 0.00116729736328125
+llava-onevision-qwen2-7b-si's delta avg: 0.00099945068359375
+
+Tensor name: model.layers.27.mlp.up_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0030517578125
+LLaVA-Video-7B-Qwen2's delta avg: 0.00104522705078125
+llava-onevision-qwen2-7b-si's delta avg: 0.00089263916015625
+
+Tensor name: model.layers.27.mlp.down_proj.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.00286865234375
+LLaVA-Video-7B-Qwen2's delta avg: 0.0009765625
+llava-onevision-qwen2-7b-si's delta avg: 0.000827789306640625
+
+Tensor name: model.layers.27.input_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.007415771484375
+LLaVA-Video-7B-Qwen2's delta avg: 0.00021266937255859375
+llava-onevision-qwen2-7b-si's delta avg: 0.00020313262939453125
+
+Tensor name: model.layers.27.post_attention_layernorm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.004852294921875
+LLaVA-Video-7B-Qwen2's delta avg: 1.0952353477478027e-06
+llava-onevision-qwen2-7b-si's delta avg: 1.0952353477478027e-06
+
+Tensor name: model.norm.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0498046875
+LLaVA-Video-7B-Qwen2's delta avg: 1.087784767150879e-06
+llava-onevision-qwen2-7b-si's delta avg: 1.087784767150879e-06
+
+Tensor name: lm_head.weight
+Qwen2-VL-7B-Instruct's delta avg: 0.0031585693359375
+LLaVA-Video-7B-Qwen2's delta avg: 0.00112152099609375
+llava-onevision-qwen2-7b-si's delta avg: 0.0009002685546875
+
