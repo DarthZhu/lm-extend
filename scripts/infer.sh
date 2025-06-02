@@ -6,19 +6,19 @@ MODELNICKNAME=$(basename "$MODELNAME")
 
 echo "Evaluating $MODELNICKNAME"
 
-# cd data/models
-# git lfs install
-# git clone https://huggingface.co/$MODELNAME
-# cd ../..
+cd data/models
+git lfs install
+git clone https://huggingface.co/$MODELNAME
+cd ../..
 
 if [ "$BASEMODELNAME" == "$MODELNICKNAME" ]; then
     echo "Loading the base model..."
     MODELPATH="data/models/$MODELNICKNAME"
 else
     echo "Saving $MODELNICKNAME..."
-    # python src/utils/save_model_local.py \
-    #     --base_model_name $BASEMODELNAME \
-    #     --pretrained_model_name $MODELNICKNAME
+    python src/utils/save_model_local.py \
+        --base_model_name $BASEMODELNAME \
+        --pretrained_model_name $MODELNICKNAME
     echo "Saving done"
     MODELPATH="data/local_llms/$MODELNICKNAME"
 fi

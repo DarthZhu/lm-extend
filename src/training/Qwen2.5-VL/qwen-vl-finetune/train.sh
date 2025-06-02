@@ -13,8 +13,8 @@ NPROC_PER_NODE=$(nvidia-smi --list-gpus | wc -l)  # Automatically detect availab
 # ======================
 # Path Configuration
 # ======================
-MODEL_PATH="/fs/scratch/PAS1576/drogozhang/lm-extend-analysis/data/local_llms/Qwen2-VL-7B-Instruct-Qwen2-merged-weighted-all"  # [ModelArguments] Pretrained model path
-OUTPUT_DIR="/fs/scratch/PAS1576/drogozhang/lm-extend-analysis/output/checkpoints/mm"  # Directory for saving checkpoints
+MODEL_PATH="data/local_llms/Qwen2-VL-7B-Instruct-Qwen2-merged-weighted-all"  # [ModelArguments] Pretrained model path
+OUTPUT_DIR="output/checkpoints/mm"  # Directory for saving checkpoints
 CACHE_DIR="./cache"  # [TrainingArguments] Cache directory for models
 
 # ======================
@@ -60,7 +60,7 @@ torchrun --nproc_per_node=$NPROC_PER_NODE \
          --logging_steps 10 \
          --save_steps 100 \
          --save_total_limit 10 \
-         --deepspeed /fs/scratch/PAS1576/drogozhang/lm-extend-analysis/src/training/Qwen2.5-VL/qwen-vl-finetune/scripts/zero3.json
+         --deepspeed zero3.json
 
 
 
