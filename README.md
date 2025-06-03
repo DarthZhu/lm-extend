@@ -3,12 +3,12 @@
 ![Static Badge](https://img.shields.io/badge/knowledge%20conflict-blue) -->
 
 <p align="center">
-Code and data for paper <a href="https://arxiv.org/abs/xxxx.xxxxx">Is Extending Modality The Right Path Towards Omni-Modality?</a>.
+Code and data for paper <a href="https://arxiv.org/abs/2506.01872">Is Extending Modality The Right Path Towards Omni-Modality?</a>.
 </p>
 
 <p align="center">
     [<a href="https://darthzhu.github.io/lm-extend-page/">Website</a>] •
-    [<a href="https://arxiv.org/abs/xxxx.xxxxx">Paper</a>]
+    [<a href="https://arxiv.org/abs/2506.01872">Paper</a>]
     <!-- [<a href="https://huggingface.co/datasets/DarthZhu/vlm-knowledge-conflict">Dataset</a>] • -->
     <!-- [<a href="https://x.com/_vztu/status/1843350510583374306">Twitter</a>] -->
 </p>
@@ -46,10 +46,10 @@ To train the merged model, you can run the script `src/training/Qwen2.5-VL/qwen-
 If you find this repo useful, please cite the following paper:
 
 ```bib
-@article{zhu2025extend,
+@article{zhu2025extending,
   title={Is Extending Modality The Right Path Towards Omni-Modality?},
   author={Zhu, Tinghui and Zhang, Kai and Chen, Muhao and Su, Yu},
-  journal={arXiv preprint arXiv:xxxx.xxxxx},
+  journal={arXiv preprint arXiv:2506.01872},
   year={2025}
 }
 ```
